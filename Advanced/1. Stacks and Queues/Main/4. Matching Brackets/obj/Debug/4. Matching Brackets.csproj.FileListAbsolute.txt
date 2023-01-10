@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

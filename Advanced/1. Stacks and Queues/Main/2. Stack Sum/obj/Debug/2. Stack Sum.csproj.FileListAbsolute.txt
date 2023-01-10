@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\bin\Debug\_2.Stack_Sum.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\bin\Debug\_2.Stack_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\bin\Debug\_2.Stack_Sum.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\obj\Debug\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\obj\Debug\2. Stack Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\obj\Debug\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\obj\Debug\_2.Stack_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\2. Stack Sum\obj\Debug\_2.Stack_Sum.pdb

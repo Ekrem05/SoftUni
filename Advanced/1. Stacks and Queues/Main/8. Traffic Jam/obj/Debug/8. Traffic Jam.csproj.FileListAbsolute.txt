@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\bin\Debug\_8.Traffic_Jam.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\bin\Debug\_8.Traffic_Jam.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\bin\Debug\_8.Traffic_Jam.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\obj\Debug\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\obj\Debug\8. Traffic Jam.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\obj\Debug\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\obj\Debug\_8.Traffic_Jam.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\8. Traffic Jam\obj\Debug\_8.Traffic_Jam.pdb

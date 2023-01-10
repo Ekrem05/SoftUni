@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\bin\Debug\_5.Print_Even_Numbers.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\bin\Debug\_5.Print_Even_Numbers.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\bin\Debug\_5.Print_Even_Numbers.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\obj\Debug\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\obj\Debug\5. Print Even Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\obj\Debug\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\obj\Debug\_5.Print_Even_Numbers.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\1. Reverse a String\5. Print Even Numbers\obj\Debug\_5.Print_Even_Numbers.pdb

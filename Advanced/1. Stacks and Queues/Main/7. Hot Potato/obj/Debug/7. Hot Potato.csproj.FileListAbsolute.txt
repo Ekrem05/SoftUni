@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\bin\Debug\_7.Hot_Potato.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\bin\Debug\_7.Hot_Potato.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\bin\Debug\_7.Hot_Potato.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\obj\Debug\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\obj\Debug\7. Hot Potato.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\obj\Debug\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\obj\Debug\_7.Hot_Potato.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Main\7. Hot Potato\obj\Debug\_7.Hot_Potato.pdb
