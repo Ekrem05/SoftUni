@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\bin\Debug\_03.Maximum_and_Minimum_Element.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\obj\Debug\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\obj\Debug\03. Maximum and Minimum Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\obj\Debug\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\obj\Debug\_03.Maximum_and_Minimum_Element.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\03. Maximum and Minimum Element\obj\Debug\_03.Maximum_and_Minimum_Element.pdb

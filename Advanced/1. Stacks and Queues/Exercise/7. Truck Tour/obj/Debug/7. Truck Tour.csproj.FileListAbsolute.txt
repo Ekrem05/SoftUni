@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\bin\Debug\_7.Truck_Tour.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\bin\Debug\_7.Truck_Tour.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\bin\Debug\_7.Truck_Tour.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\obj\Debug\7. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\obj\Debug\7. Truck Tour.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\obj\Debug\7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\obj\Debug\_7.Truck_Tour.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\7. Truck Tour\obj\Debug\_7.Truck_Tour.pdb

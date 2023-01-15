@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\bin\Debug\_1.Basic_Stack_Operations.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\1. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\_1.Basic_Stack_Operations.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\1. Basic Stack Operations\obj\Debug\_1.Basic_Stack_Operations.pdb

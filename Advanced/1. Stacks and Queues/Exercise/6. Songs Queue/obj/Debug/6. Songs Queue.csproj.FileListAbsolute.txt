@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\bin\Debug\_6.Songs_Queue.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\bin\Debug\_6.Songs_Queue.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\bin\Debug\_6.Songs_Queue.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\obj\Debug\6. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\obj\Debug\6. Songs Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\obj\Debug\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\obj\Debug\_6.Songs_Queue.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\6. Songs Queue\obj\Debug\_6.Songs_Queue.pdb

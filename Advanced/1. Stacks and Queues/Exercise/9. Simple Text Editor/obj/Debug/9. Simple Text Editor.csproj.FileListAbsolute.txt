@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\bin\Debug\_9.Simple_Text_Editor.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\bin\Debug\_9.Simple_Text_Editor.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\bin\Debug\_9.Simple_Text_Editor.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\obj\Debug\9. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\obj\Debug\9. Simple Text Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\obj\Debug\9. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\obj\Debug\_9.Simple_Text_Editor.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\9. Simple Text Editor\obj\Debug\_9.Simple_Text_Editor.pdb

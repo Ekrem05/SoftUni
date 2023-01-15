@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\bin\Debug\_8.Balanced_Parenthesis.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\bin\Debug\_8.Balanced_Parenthesis.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\bin\Debug\_8.Balanced_Parenthesis.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\obj\Debug\8. Balanced Parenthesis.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\obj\Debug\8. Balanced Parenthesis.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\obj\Debug\8. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\obj\Debug\_8.Balanced_Parenthesis.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\1. Stacks and Queues\Exercise\1. Basic Stack Operations\8. Balanced Parenthesis\obj\Debug\_8.Balanced_Parenthesis.pdb
