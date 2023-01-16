@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\Multidimensional Arrays.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\Multidimensional Arrays.pdb

@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\bin\Debug\_7.Pascal_Triangle.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\bin\Debug\_7.Pascal_Triangle.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\bin\Debug\_7.Pascal_Triangle.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\obj\Debug\7. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\obj\Debug\7. Pascal Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\obj\Debug\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\obj\Debug\_7.Pascal_Triangle.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\7. Pascal Triangle\obj\Debug\_7.Pascal_Triangle.pdb

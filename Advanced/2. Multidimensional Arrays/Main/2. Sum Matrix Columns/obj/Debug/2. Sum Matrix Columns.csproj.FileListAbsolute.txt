@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\bin\Debug\_2.Sum_Matrix_Columns.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\obj\Debug\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\obj\Debug\2. Sum Matrix Columns.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\obj\Debug\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\obj\Debug\_2.Sum_Matrix_Columns.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\2. Sum Matrix Columns\obj\Debug\_2.Sum_Matrix_Columns.pdb

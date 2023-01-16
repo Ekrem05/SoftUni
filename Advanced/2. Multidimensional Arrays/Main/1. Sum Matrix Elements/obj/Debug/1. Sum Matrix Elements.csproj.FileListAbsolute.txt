@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb

@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\bin\Debug\_6.Jagged_Array_Modification.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\bin\Debug\_6.Jagged_Array_Modification.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\bin\Debug\_6.Jagged_Array_Modification.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\obj\Debug\6. Jagged-Array Modification.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\obj\Debug\6. Jagged-Array Modification.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\obj\Debug\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\obj\Debug\_6.Jagged_Array_Modification.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\6. Jagged-Array Modification\obj\Debug\_6.Jagged_Array_Modification.pdb

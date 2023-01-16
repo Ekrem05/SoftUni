@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\bin\Debug\_3.Primary_Diagonal.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\obj\Debug\3. Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\obj\Debug\3. Primary Diagonal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\obj\Debug\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\obj\Debug\_3.Primary_Diagonal.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\3. Primary Diagonal\obj\Debug\_3.Primary_Diagonal.pdb

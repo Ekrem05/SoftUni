@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\bin\Debug\_5.Square_With_Maximum_Sum.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\obj\Debug\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\obj\Debug\5. Square With Maximum Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\obj\Debug\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\obj\Debug\_5.Square_With_Maximum_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Main\5. Square With Maximum Sum\obj\Debug\_5.Square_With_Maximum_Sum.pdb
