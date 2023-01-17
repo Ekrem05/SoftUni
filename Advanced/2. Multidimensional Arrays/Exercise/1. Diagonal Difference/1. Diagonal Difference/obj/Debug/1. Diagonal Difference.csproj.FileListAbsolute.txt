@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\_1.Diagonal_Difference.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\_1.Diagonal_Difference.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\bin\Debug\_1.Diagonal_Difference.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\1. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\1. Diagonal Difference.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\_1.Diagonal_Difference.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\1. Diagonal Difference\1. Diagonal Difference\obj\Debug\_1.Diagonal_Difference.pdb

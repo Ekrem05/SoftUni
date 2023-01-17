@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\_3.Maximal_Sum.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\_3.Maximal_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\_3.Maximal_Sum.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\3. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\3. Maximal Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\_3.Maximal_Sum.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\_3.Maximal_Sum.pdb

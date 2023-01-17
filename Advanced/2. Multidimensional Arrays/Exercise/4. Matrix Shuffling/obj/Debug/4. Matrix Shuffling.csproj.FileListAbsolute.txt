@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\bin\Debug\_4.Matrix_Shuffling.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\bin\Debug\_4.Matrix_Shuffling.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\bin\Debug\_4.Matrix_Shuffling.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\obj\Debug\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\obj\Debug\4. Matrix Shuffling.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\obj\Debug\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\obj\Debug\_4.Matrix_Shuffling.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\4. Matrix Shuffling\obj\Debug\_4.Matrix_Shuffling.pdb

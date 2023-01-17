@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\bin\Debug\_2.Squares_in_Matrix.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\bin\Debug\_2.Squares_in_Matrix.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\bin\Debug\_2.Squares_in_Matrix.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\obj\Debug\2. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\obj\Debug\2. Squares in Matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\obj\Debug\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\obj\Debug\_2.Squares_in_Matrix.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\2. Multidimensional Arrays\Exercise\2. Squares in Matrix\obj\Debug\_2.Squares_in_Matrix.pdb
