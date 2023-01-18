@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\bin\Debug\_7.Parking_Lot.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\bin\Debug\_7.Parking_Lot.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\bin\Debug\_7.Parking_Lot.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\obj\Debug\7. Parking Lot.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\obj\Debug\7. Parking Lot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\obj\Debug\7. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\obj\Debug\_7.Parking_Lot.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\7. Parking Lot\obj\Debug\_7.Parking_Lot.pdb

@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\bin\Debug\_5.Cities_by_Continent_and_Country.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\bin\Debug\_5.Cities_by_Continent_and_Country.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\bin\Debug\_5.Cities_by_Continent_and_Country.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\obj\Debug\5. Cities by Continent and Country.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\obj\Debug\5. Cities by Continent and Country.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\obj\Debug\5. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\obj\Debug\_5.Cities_by_Continent_and_Country.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\5. Cities by Continent and Country\obj\Debug\_5.Cities_by_Continent_and_Country.pdb

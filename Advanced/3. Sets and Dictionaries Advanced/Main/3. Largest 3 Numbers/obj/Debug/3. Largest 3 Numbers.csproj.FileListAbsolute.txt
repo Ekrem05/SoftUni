@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\bin\Debug\_3.Largest_3_Numbers.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\bin\Debug\_3.Largest_3_Numbers.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\bin\Debug\_3.Largest_3_Numbers.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\obj\Debug\3. Largest 3 Numbers.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\obj\Debug\3. Largest 3 Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\obj\Debug\3. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\obj\Debug\_3.Largest_3_Numbers.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\3. Largest 3 Numbers\obj\Debug\_3.Largest_3_Numbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\_1.Count_Same_Values_in_Array.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\_1.Count_Same_Values_in_Array.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\_1.Count_Same_Values_in_Array.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\1. Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\1. Count Same Values in Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\_1.Count_Same_Values_in_Array.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\_1.Count_Same_Values_in_Array.pdb

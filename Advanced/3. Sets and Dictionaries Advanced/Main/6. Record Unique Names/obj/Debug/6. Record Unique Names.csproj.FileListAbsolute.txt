@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\bin\Debug\_6.Record_Unique_Names.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\bin\Debug\_6.Record_Unique_Names.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\bin\Debug\_6.Record_Unique_Names.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\obj\Debug\6. Record Unique Names.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\obj\Debug\6. Record Unique Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\obj\Debug\6. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\obj\Debug\_6.Record_Unique_Names.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Main\6. Record Unique Names\obj\Debug\_6.Record_Unique_Names.pdb
