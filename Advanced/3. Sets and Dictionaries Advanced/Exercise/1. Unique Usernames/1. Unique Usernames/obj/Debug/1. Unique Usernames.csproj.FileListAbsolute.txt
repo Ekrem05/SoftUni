@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\bin\Debug\_1.Unique_Usernames.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\bin\Debug\_1.Unique_Usernames.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\bin\Debug\_1.Unique_Usernames.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\obj\Debug\1. Unique Usernames.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\obj\Debug\1. Unique Usernames.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\obj\Debug\1. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\obj\Debug\_1.Unique_Usernames.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\1. Unique Usernames\1. Unique Usernames\obj\Debug\_1.Unique_Usernames.pdb

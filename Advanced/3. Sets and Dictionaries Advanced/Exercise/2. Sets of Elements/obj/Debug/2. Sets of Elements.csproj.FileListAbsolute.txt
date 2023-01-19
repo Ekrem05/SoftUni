@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\obj\Debug\2. Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\obj\Debug\2. Sets of Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\obj\Debug\2. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\bin\Debug\_2.Sets_of_Elements.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\obj\Debug\_2.Sets_of_Elements.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\3. Sets and Dictionaries Advanced\Exercise\2. Sets of Elements\obj\Debug\_2.Sets_of_Elements.pdb
