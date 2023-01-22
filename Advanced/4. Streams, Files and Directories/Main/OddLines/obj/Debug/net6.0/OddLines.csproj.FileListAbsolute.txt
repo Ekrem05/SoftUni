@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Main\OddLines\obj\Debug\net6.0\ref\OddLines.dll
