@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\bin\Debug\net6.0\EvenLines.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\bin\Debug\net6.0\EvenLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\4. Streams, Files and Directories\Exercise\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll
