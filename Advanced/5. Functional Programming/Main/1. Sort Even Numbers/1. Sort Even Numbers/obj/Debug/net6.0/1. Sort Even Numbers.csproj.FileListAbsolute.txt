@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net6.0\1. Sort Even Numbers.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net6.0\1. Sort Even Numbers.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net6.0\1. Sort Even Numbers.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net6.0\1. Sort Even Numbers.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\bin\Debug\net6.0\1. Sort Even Numbers.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\refint\1. Sort Even Numbers.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\1. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\1. Sort Even Numbers\1. Sort Even Numbers\obj\Debug\net6.0\ref\1. Sort Even Numbers.dll

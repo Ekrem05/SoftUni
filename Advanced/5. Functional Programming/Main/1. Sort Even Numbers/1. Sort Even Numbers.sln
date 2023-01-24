@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sort Even Numbers", "1. Sort Even Numbers\1. Sort Even Numbers.csproj", "{4A27FB12-B410-471E-B50C-48042348D7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Numbers", "..\2. Sum Numbers\2. Sum Numbers.csproj", "{D74708E2-379D-40B9-9183-C27C2D2A0BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A27FB12-B410-471E-B50C-48042348D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A27FB12-B410-471E-B50C-48042348D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A27FB12-B410-471E-B50C-48042348D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A27FB12-B410-471E-B50C-48042348D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74708E2-379D-40B9-9183-C27C2D2A0BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74708E2-379D-40B9-9183-C27C2D2A0BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74708E2-379D-40B9-9183-C27C2D2A0BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74708E2-379D-40B9-9183-C27C2D2A0BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA44E2DB-E287-4130-82BA-431AD1019917}
+	EndGlobalSection
+EndGlobal
