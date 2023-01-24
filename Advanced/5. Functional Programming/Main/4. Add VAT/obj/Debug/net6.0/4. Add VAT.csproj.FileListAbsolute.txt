@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\bin\Debug\net6.0\4. Add VAT.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\bin\Debug\net6.0\4. Add VAT.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\bin\Debug\net6.0\4. Add VAT.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\bin\Debug\net6.0\4. Add VAT.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\bin\Debug\net6.0\4. Add VAT.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\refint\4. Add VAT.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\4. Add VAT.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Main\4. Add VAT\obj\Debug\net6.0\ref\4. Add VAT.dll
