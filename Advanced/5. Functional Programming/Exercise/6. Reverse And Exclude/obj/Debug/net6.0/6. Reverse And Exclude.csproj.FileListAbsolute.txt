@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\bin\Debug\net6.0\6. Reverse And Exclude.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\bin\Debug\net6.0\6. Reverse And Exclude.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\bin\Debug\net6.0\6. Reverse And Exclude.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\bin\Debug\net6.0\6. Reverse And Exclude.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\bin\Debug\net6.0\6. Reverse And Exclude.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\refint\6. Reverse And Exclude.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\6. Reverse And Exclude.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\6. Reverse And Exclude\obj\Debug\net6.0\ref\6. Reverse And Exclude.dll

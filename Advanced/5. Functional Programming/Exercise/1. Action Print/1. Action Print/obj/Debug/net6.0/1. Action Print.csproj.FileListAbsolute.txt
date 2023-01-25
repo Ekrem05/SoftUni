@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\bin\Debug\net6.0\1. Action Print.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\bin\Debug\net6.0\1. Action Print.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\bin\Debug\net6.0\1. Action Print.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\bin\Debug\net6.0\1. Action Print.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\bin\Debug\net6.0\1. Action Print.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\refint\1. Action Print.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\1. Action Print.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\1. Action Print\1. Action Print\obj\Debug\net6.0\ref\1. Action Print.dll

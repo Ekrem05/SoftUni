@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\bin\Debug\net6.0\5. Applied Arithmetics.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\bin\Debug\net6.0\5. Applied Arithmetics.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\bin\Debug\net6.0\5. Applied Arithmetics.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\bin\Debug\net6.0\5. Applied Arithmetics.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\bin\Debug\net6.0\5. Applied Arithmetics.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\refint\5. Applied Arithmetics.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\5. Applied Arithmetics.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\5. Applied Arithmetics\obj\Debug\net6.0\ref\5. Applied Arithmetics.dll

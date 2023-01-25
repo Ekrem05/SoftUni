@@ -32,7 +32,7 @@ Action<Person>Formatter(string foramtType)
 {
     if (foramtType == "name age")
     {
-        return p => Console.WriteLine($"{p.Name} {p.Age}");
+        return p => Console.WriteLine($"{p.Name} - {p.Age}");
     }
     else if (foramtType == "name")
     {

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4. Find Evens or Odds/1.0.0": {
+        "runtime": {
+          "4. Find Evens or Odds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4. Find Evens or Odds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

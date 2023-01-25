@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\bin\Debug\net6.0\4. Find Evens or Odds.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\bin\Debug\net6.0\4. Find Evens or Odds.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\bin\Debug\net6.0\4. Find Evens or Odds.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\bin\Debug\net6.0\4. Find Evens or Odds.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\bin\Debug\net6.0\4. Find Evens or Odds.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\refint\4. Find Evens or Odds.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\4. Find Evens or Odds.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\4. Find Evens or Odds\obj\Debug\net6.0\ref\4. Find Evens or Odds.dll
