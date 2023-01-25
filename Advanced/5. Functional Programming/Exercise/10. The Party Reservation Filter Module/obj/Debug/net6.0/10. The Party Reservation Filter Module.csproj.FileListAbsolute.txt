@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\refint\10. The Party Reservation Filter Module.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\10. The Party Reservation Filter Module\obj\Debug\net6.0\ref\10. The Party Reservation Filter Module.dll

@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\bin\Debug\net6.0\9. Predicate Party!.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\bin\Debug\net6.0\9. Predicate Party!.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\bin\Debug\net6.0\9. Predicate Party!.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\bin\Debug\net6.0\9. Predicate Party!.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\bin\Debug\net6.0\9. Predicate Party!.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\refint\9. Predicate Party!.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\9. Predicate Party!.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\5. Functional Programming\Exercise\9. Predicate Party!\obj\Debug\net6.0\ref\9. Predicate Party!.dll

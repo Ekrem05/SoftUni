@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Action Print", "1. Action Print\1. Action Print.csproj", "{5785D430-04AE-4B0F-B495-8037859ED8CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Action Print", "1. Action Print\1. Action Print.csproj", "{5785D430-04AE-4B0F-B495-8037859ED8CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Knights of Honor", "..\2. Knights of Honor\2. Knights of Honor.csproj", "{A804A671-BA87-4EBE-B493-6DF9BCF8E909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Knights of Honor", "..\2. Knights of Honor\2. Knights of Honor.csproj", "{A804A671-BA87-4EBE-B493-6DF9BCF8E909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Custom Min Function", "..\3. Custom Min Function\3. Custom Min Function.csproj", "{6268E7A4-CC01-4A5D-90C3-B61808B2FFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Custom Min Function", "..\3. Custom Min Function\3. Custom Min Function.csproj", "{6268E7A4-CC01-4A5D-90C3-B61808B2FFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Find Evens or Odds", "..\4. Find Evens or Odds\4. Find Evens or Odds.csproj", "{F3D76077-DB06-4300-A1ED-71646360F874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Find Evens or Odds", "..\4. Find Evens or Odds\4. Find Evens or Odds.csproj", "{F3D76077-DB06-4300-A1ED-71646360F874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Applied Arithmetics", "..\5. Applied Arithmetics\5. Applied Arithmetics.csproj", "{1DF29177-6DF0-429D-A6A4-AB1DA4212299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Applied Arithmetics", "..\5. Applied Arithmetics\5. Applied Arithmetics.csproj", "{1DF29177-6DF0-429D-A6A4-AB1DA4212299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Reverse And Exclude", "..\6. Reverse And Exclude\6. Reverse And Exclude.csproj", "{699BD346-EB3F-4276-90DC-411A65CDF592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Reverse And Exclude", "..\6. Reverse And Exclude\6. Reverse And Exclude.csproj", "{699BD346-EB3F-4276-90DC-411A65CDF592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Predicate Party!", "..\9. Predicate Party!\9. Predicate Party!.csproj", "{2DB1AE9D-2F28-4F92-92C5-7913C7B04190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. The Party Reservation Filter Module", "..\10. The Party Reservation Filter Module\10. The Party Reservation Filter Module.csproj", "{387E6292-D6DC-446E-9381-2B7DE9A3CBA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{699BD346-EB3F-4276-90DC-411A65CDF592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{699BD346-EB3F-4276-90DC-411A65CDF592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{699BD346-EB3F-4276-90DC-411A65CDF592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB1AE9D-2F28-4F92-92C5-7913C7B04190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB1AE9D-2F28-4F92-92C5-7913C7B04190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB1AE9D-2F28-4F92-92C5-7913C7B04190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB1AE9D-2F28-4F92-92C5-7913C7B04190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387E6292-D6DC-446E-9381-2B7DE9A3CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387E6292-D6DC-446E-9381-2B7DE9A3CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387E6292-D6DC-446E-9381-2B7DE9A3CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387E6292-D6DC-446E-9381-2B7DE9A3CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
