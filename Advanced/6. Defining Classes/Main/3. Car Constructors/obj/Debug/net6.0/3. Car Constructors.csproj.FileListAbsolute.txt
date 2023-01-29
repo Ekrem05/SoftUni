@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\refint\3. Car Constructors.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Main\3. Car Constructors\obj\Debug\net6.0\ref\3. Car Constructors.dll
