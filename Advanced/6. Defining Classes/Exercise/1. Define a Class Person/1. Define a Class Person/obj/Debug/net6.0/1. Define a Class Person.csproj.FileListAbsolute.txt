@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\bin\Debug\net6.0\1. Define a Class Person.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\bin\Debug\net6.0\1. Define a Class Person.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\bin\Debug\net6.0\1. Define a Class Person.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\bin\Debug\net6.0\1. Define a Class Person.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\bin\Debug\net6.0\1. Define a Class Person.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\refint\1. Define a Class Person.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\1. Define a Class Person.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\1. Define a Class Person\1. Define a Class Person\obj\Debug\net6.0\ref\1. Define a Class Person.dll

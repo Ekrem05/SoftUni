@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\bin\Debug\net6.0\4. Opinion Poll.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\bin\Debug\net6.0\4. Opinion Poll.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\bin\Debug\net6.0\4. Opinion Poll.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\bin\Debug\net6.0\4. Opinion Poll.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\bin\Debug\net6.0\4. Opinion Poll.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\refint\4. Opinion Poll.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\4. Opinion Poll.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\6. Defining Classes\Exercise\4. Opinion Poll\obj\Debug\net6.0\ref\4. Opinion Poll.dll
