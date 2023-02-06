@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\refint\GenericSwapMethodStrings.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericSwapMethodStrings\obj\Debug\net6.0\ref\GenericSwapMethodStrings.dll

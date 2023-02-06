@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\refint\GenericBoxofInteger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofInteger\obj\Debug\net6.0\ref\GenericBoxofInteger.dll

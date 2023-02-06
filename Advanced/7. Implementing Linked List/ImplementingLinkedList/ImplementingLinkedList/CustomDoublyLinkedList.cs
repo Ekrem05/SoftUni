@@ -53,7 +53,22 @@ namespace CustomDoublyLinkedLists
             Tale = Tale.Previous;
             return temp;
         }
-
+        public void ForEach(Action<int> action)
+        {
+            Node current = Head;
+            while (current!=null)
+            {
+                action(current.Value);
+                current = current.Next;
+            }
+        }
+        public int[] ToArray ()
+        {
+            int[] result = new int[Count];
+            int i = 0;
+            ForEach(x => result[i++] = x);
+            return result;
+        }
 
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\refint\GenericBoxofString.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\ref\GenericBoxofString.dll
