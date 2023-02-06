@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\Tuple\obj\Debug\net6.0\ref\Tuple.dll
