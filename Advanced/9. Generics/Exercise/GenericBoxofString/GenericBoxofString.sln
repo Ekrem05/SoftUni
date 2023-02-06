@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodStrings", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodIntegers", "..\GenericSwapMethodIntegers\GenericSwapMethodIntegers.csproj", "{65A48212-983F-4C2F-B257-DDD5E4F44EA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodStrings", "..\GenericCountMethodStrings\GenericCountMethodStrings.csproj", "{60C451B5-43DE-4AE1-8DBA-045CC7915B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDoubles", "..\GenericCountMethodDoubles\GenericCountMethodDoubles.csproj", "{D553A095-8684-48B2-997F-85D8FB72860F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "..\Tuple\Tuple.csproj", "{3D1601F3-DAC0-4736-AA3D-295E53A05B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{65A48212-983F-4C2F-B257-DDD5E4F44EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65A48212-983F-4C2F-B257-DDD5E4F44EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65A48212-983F-4C2F-B257-DDD5E4F44EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C451B5-43DE-4AE1-8DBA-045CC7915B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C451B5-43DE-4AE1-8DBA-045CC7915B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C451B5-43DE-4AE1-8DBA-045CC7915B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C451B5-43DE-4AE1-8DBA-045CC7915B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D553A095-8684-48B2-997F-85D8FB72860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D553A095-8684-48B2-997F-85D8FB72860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D553A095-8684-48B2-997F-85D8FB72860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D553A095-8684-48B2-997F-85D8FB72860F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1601F3-DAC0-4736-AA3D-295E53A05B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1601F3-DAC0-4736-AA3D-295E53A05B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1601F3-DAC0-4736-AA3D-295E53A05B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1601F3-DAC0-4736-AA3D-295E53A05B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

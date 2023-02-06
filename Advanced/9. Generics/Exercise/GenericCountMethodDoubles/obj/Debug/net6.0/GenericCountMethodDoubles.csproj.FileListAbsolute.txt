@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\bin\Debug\net6.0\GenericCountMethodDoubles.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\bin\Debug\net6.0\GenericCountMethodDoubles.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\bin\Debug\net6.0\GenericCountMethodDoubles.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\bin\Debug\net6.0\GenericCountMethodDoubles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\bin\Debug\net6.0\GenericCountMethodDoubles.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\refint\GenericCountMethodDoubles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\GenericCountMethodDoubles.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\9. Generics\Exercise\GenericCountMethodDoubles\obj\Debug\net6.0\ref\GenericCountMethodDoubles.dll
