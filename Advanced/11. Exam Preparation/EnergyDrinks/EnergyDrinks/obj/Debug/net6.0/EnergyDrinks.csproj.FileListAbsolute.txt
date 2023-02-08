@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\refint\EnergyDrinks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\ref\EnergyDrinks.dll

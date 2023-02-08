@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\refint\ComputerArchitecture.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ComputerArchitecture\obj\Debug\net6.0\ref\ComputerArchitecture.dll
