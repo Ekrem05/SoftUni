@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbthePeaks", "ClimbthePeaks\ClimbthePeaks.csproj", "{C6F0089E-01A9-4F1E-9BF3-7330103EEFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavyBattle", "..\NavyBattle\NavyBattle.csproj", "{BAF78E39-DB06-4714-84A2-396DDD6BC4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F0089E-01A9-4F1E-9BF3-7330103EEFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F0089E-01A9-4F1E-9BF3-7330103EEFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F0089E-01A9-4F1E-9BF3-7330103EEFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F0089E-01A9-4F1E-9BF3-7330103EEFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF78E39-DB06-4714-84A2-396DDD6BC4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF78E39-DB06-4714-84A2-396DDD6BC4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF78E39-DB06-4714-84A2-396DDD6BC4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF78E39-DB06-4714-84A2-396DDD6BC4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA75C8C7-D323-4D5E-AAEF-0A8FF71A572F}
+	EndGlobalSection
+EndGlobal

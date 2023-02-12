@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\bin\Debug\net6.0\ClimbthePeaks.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\refint\ClimbthePeaks.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ClimbthePeaks.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\ClimbthePeaks\ClimbthePeaks\obj\Debug\net6.0\ref\ClimbthePeaks.dll
