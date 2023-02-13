@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\obj\Debug\WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\obj\Debug\WallDestroyer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\obj\Debug\WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\bin\Debug\WallDestroyer.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\bin\Debug\WallDestroyer.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\bin\Debug\WallDestroyer.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\obj\Debug\WallDestroyer.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\WallDestroyer\obj\Debug\WallDestroyer.pdb

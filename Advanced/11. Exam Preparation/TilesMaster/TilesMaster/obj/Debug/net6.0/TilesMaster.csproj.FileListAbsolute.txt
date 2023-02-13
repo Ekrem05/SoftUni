@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\bin\Debug\net6.0\TilesMaster.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\bin\Debug\net6.0\TilesMaster.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\bin\Debug\net6.0\TilesMaster.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\bin\Debug\net6.0\TilesMaster.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\bin\Debug\net6.0\TilesMaster.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\refint\TilesMaster.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\TilesMaster.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net6.0\ref\TilesMaster.dll

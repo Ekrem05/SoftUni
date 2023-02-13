@@ -1,0 +1,5 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net5.0\TilesMaster.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net5.0\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net5.0\TilesMaster.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net5.0\TilesMaster.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster\obj\Debug\net5.0\TilesMaster.csproj.CoreCompileInputs.cache
