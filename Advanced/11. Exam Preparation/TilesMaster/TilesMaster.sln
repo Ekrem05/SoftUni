@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilesMaster.NETCORE", "Tile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallDestroyer", "WallDestroyer\WallDestroyer.csproj", "{C817C0E5-D2EC-4EAF-BD06-11646DBBDFB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rennovators", "Rennovators\Rennovators.csproj", "{23541CF4-633D-4521-B325-38897C3DCF4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C817C0E5-D2EC-4EAF-BD06-11646DBBDFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C817C0E5-D2EC-4EAF-BD06-11646DBBDFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C817C0E5-D2EC-4EAF-BD06-11646DBBDFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23541CF4-633D-4521-B325-38897C3DCF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23541CF4-633D-4521-B325-38897C3DCF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23541CF4-633D-4521-B325-38897C3DCF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23541CF4-633D-4521-B325-38897C3DCF4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

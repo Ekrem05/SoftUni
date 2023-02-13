@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\bin\Debug\Rennovators.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\bin\Debug\Rennovators.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\bin\Debug\Rennovators.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\obj\Debug\Rennovators.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\obj\Debug\Rennovators.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\obj\Debug\Rennovators.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\obj\Debug\Rennovators.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\Rennovators\obj\Debug\Rennovators.pdb
