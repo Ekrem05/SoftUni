@@ -1,8 +1,0 @@
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\bin\Debug\TilesMaster.NETCORE.exe.config
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\bin\Debug\TilesMaster.NETCORE.exe
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\bin\Debug\TilesMaster.NETCORE.pdb
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\obj\Debug\TilesMaster.NETCORE.csproj.AssemblyReference.cache
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\obj\Debug\TilesMaster.NETCORE.csproj.SuggestedBindingRedirects.cache
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\obj\Debug\TilesMaster.NETCORE.csproj.CoreCompileInputs.cache
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\obj\Debug\TilesMaster.NETCORE.exe
-C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\TilesMaster\TilesMaster.NETCORE\obj\Debug\TilesMaster.NETCORE.pdb
