@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakery Shop", "Bakery Shop\Bakery Shop.csproj", "{0791FACF-8448-4E98-AA14-EED61F5AED54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCoreVartiant", "Bakery Shop\netCoreVartiant\netCoreVartiant.csproj", "{3C25F801-06D8-4057-87FC-DEAC724DC142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0791FACF-8448-4E98-AA14-EED61F5AED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0791FACF-8448-4E98-AA14-EED61F5AED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0791FACF-8448-4E98-AA14-EED61F5AED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0791FACF-8448-4E98-AA14-EED61F5AED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C25F801-06D8-4057-87FC-DEAC724DC142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C25F801-06D8-4057-87FC-DEAC724DC142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C25F801-06D8-4057-87FC-DEAC724DC142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C25F801-06D8-4057-87FC-DEAC724DC142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E88712C-E7E3-4041-A41A-0116E37A4EF3}
+	EndGlobalSection
+EndGlobal

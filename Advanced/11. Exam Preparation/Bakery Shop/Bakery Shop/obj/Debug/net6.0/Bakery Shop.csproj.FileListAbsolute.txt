@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\bin\Debug\net6.0\Bakery Shop.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\bin\Debug\net6.0\Bakery Shop.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\bin\Debug\net6.0\Bakery Shop.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\bin\Debug\net6.0\Bakery Shop.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\bin\Debug\net6.0\Bakery Shop.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\refint\Bakery Shop.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\Bakery Shop.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\obj\Debug\net6.0\ref\Bakery Shop.dll

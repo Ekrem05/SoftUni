@@ -1,0 +1,8 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\bin\Debug\netCoreVartiant.exe.config
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\bin\Debug\netCoreVartiant.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\bin\Debug\netCoreVartiant.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\obj\Debug\netCoreVartiant.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\obj\Debug\netCoreVartiant.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\obj\Debug\netCoreVartiant.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\obj\Debug\netCoreVartiant.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\11. Exam Preparation\Bakery Shop\Bakery Shop\netCoreVartiant\obj\Debug\netCoreVartiant.pdb
