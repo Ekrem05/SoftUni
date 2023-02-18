@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exam_Ex2/1.0.0": {
+        "runtime": {
+          "Exam_Ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam_Ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

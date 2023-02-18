@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\bin\Debug\net6.0\Exam_Ex2.exe
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\bin\Debug\net6.0\Exam_Ex2.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\bin\Debug\net6.0\Exam_Ex2.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\bin\Debug\net6.0\Exam_Ex2.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\bin\Debug\net6.0\Exam_Ex2.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\refint\Exam_Ex2.dll
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\Exam_Ex2.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUniAdvancedCSharp\Advanced\Exam\Exam_Ex2\obj\Debug\net6.0\ref\Exam_Ex2.dll

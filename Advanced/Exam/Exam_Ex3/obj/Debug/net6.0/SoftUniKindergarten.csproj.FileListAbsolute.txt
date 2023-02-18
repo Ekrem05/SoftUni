@@ -1,0 +1,15 @@
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\bin\Debug\net6.0\SoftUniKindergarten.exe
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\bin\Debug\net6.0\SoftUniKindergarten.deps.json
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\bin\Debug\net6.0\SoftUniKindergarten.runtimeconfig.json
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\bin\Debug\net6.0\SoftUniKindergarten.dll
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\bin\Debug\net6.0\SoftUniKindergarten.pdb
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.dll
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\refint\SoftUniKindergarten.dll
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.pdb
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\SoftUniKindergarten.genruntimeconfig.cache
+C:\Users\ekrem\AppData\Local\Temp\Temp2_SoftUniKindergarten_Skeleton_6.0.zip\obj\Debug\net6.0\ref\SoftUniKindergarten.dll
