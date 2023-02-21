@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\bin\Debug\net6.0\Farm.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\bin\Debug\net6.0\Farm.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\bin\Debug\net6.0\Farm.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\bin\Debug\net6.0\Farm.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\bin\Debug\net6.0\Farm.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\refint\Farm.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\1. Inheritance\Main\Farm\Farm\obj\Debug\net6.0\ref\Farm.dll
