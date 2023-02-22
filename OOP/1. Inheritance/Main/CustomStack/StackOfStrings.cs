@@ -7,21 +7,19 @@ using System.Threading.Tasks;
 namespace CustomStack
 {
     public class StackOfStrings:Stack<string>
-    {
-        public Stack<string> stack = new Stack<string>();
-        public StackOfStrings() { }
+    {        
         public bool IsEmpty() 
         {
-            return stack.Any();
+            return this.Count == 0;
         }
-        public Stack<string> AddRange() 
+        public Stack<string> AddRange(IEnumerable<string>stack) 
         { 
-            Stack<string> stack = new Stack<string>();
-            foreach (var item in this.stack)
+           
+            foreach (var item in stack)
             {
-                stack.Push(item);
+                this.Push(item);
             }
-            return stack;
+            return this;
         }
     }
 }
