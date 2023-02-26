@@ -13,7 +13,7 @@ namespace Person
             {
                 Person person = new(name, age);
                 Console.WriteLine(person);
-            }
+            }   
             else
             {
                 Child child = new Child(name, age);
