@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\Exercise\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll
