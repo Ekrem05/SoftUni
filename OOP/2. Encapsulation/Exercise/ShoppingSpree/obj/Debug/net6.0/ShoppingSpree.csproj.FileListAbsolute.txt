@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll
