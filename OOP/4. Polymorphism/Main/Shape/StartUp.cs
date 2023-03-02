@@ -7,6 +7,9 @@
            Shape shape=new Circle(2);
            Shape shape1= new Rectangle(2,3);
             Console.WriteLine(shape1.CalculateArea());
+            Console.WriteLine(shape1.Draw());
+            Console.WriteLine(shape.Draw());
+
         }
     }
 }

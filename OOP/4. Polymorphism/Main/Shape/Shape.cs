@@ -12,7 +12,7 @@ namespace Shapes
         public abstract double CalculateArea();
         public virtual string Draw()
         {
-            return $"Drawing Shape";
+            return $"Drawing {this.GetType().Name}";
         }
 
     }

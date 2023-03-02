@@ -27,11 +27,11 @@ namespace Shapes
 
         public override double CalculatePeimeter()
         {
-           return 2*(Width*Height);
+           return 2*(Width+Height);
         }
         public override string Draw()
         {
-            return $"Drawing Rectangle";
+            return $"Drawing {this.GetType().Name}";
         }
     }
 }

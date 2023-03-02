@@ -21,7 +21,7 @@ namespace Shapes
 
         public override double CalculateArea()
         {
-            return Radius * Radius * Math.PI;
+            return Math.Pow(Radius,2) * Math.PI;
         }
 
         public override double CalculatePeimeter()
@@ -30,7 +30,7 @@ namespace Shapes
         }
         public override string Draw()
         {
-            return $"Drawing Circle";
+            return $"Drawing {this.GetType().Name}";
         }
     }
 }
