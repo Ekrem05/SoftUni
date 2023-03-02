@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\bin\Debug\net6.0\Shape.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\bin\Debug\net6.0\Shape.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\bin\Debug\net6.0\Shape.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\bin\Debug\net6.0\Shape.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\refint\Shape.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Main\Shape\obj\Debug\net6.0\ref\Shape.dll
