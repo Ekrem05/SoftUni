@@ -25,7 +25,7 @@ namespace Shapes
            return Width* Height;
         }
 
-        public override double CalculatePeimeter()
+        public override double CalculatePerimeter()
         {
            return 2*(Width+Height);
         }

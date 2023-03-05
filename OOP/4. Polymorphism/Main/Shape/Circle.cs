@@ -24,9 +24,9 @@ namespace Shapes
             return Math.Pow(Radius,2) * Math.PI;
         }
 
-        public override double CalculatePeimeter()
+        public override double CalculatePerimeter()
         {
-            return 2 * (Radius * Math.PI);
+            return 2 * Math.PI*Radius;
         }
         public override string Draw()
         {
