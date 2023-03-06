@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\4. Polymorphism\Exercise\ExercisesPolymorphism\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
