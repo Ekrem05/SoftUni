@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{31BFEA6A-B687-4D54-8D7F-C733FA7B37F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "..\EnterNumbers\EnterNumbers.csproj", "{60BE7FDE-6C82-4027-9789-C3DC7B3E32A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "..\Cards\Cards.csproj", "{E050487E-6BAD-4AA2-B1E2-00F23E6E3370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BFEA6A-B687-4D54-8D7F-C733FA7B37F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BFEA6A-B687-4D54-8D7F-C733FA7B37F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BFEA6A-B687-4D54-8D7F-C733FA7B37F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BFEA6A-B687-4D54-8D7F-C733FA7B37F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BE7FDE-6C82-4027-9789-C3DC7B3E32A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BE7FDE-6C82-4027-9789-C3DC7B3E32A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BE7FDE-6C82-4027-9789-C3DC7B3E32A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BE7FDE-6C82-4027-9789-C3DC7B3E32A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E050487E-6BAD-4AA2-B1E2-00F23E6E3370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E050487E-6BAD-4AA2-B1E2-00F23E6E3370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E050487E-6BAD-4AA2-B1E2-00F23E6E3370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E050487E-6BAD-4AA2-B1E2-00F23E6E3370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB229B6-F3EC-4BD7-B4FA-7E9C7C819063}
+	EndGlobalSection
+EndGlobal

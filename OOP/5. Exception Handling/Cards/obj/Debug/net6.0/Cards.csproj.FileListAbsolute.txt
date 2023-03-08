@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\bin\Debug\net6.0\Cards.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\bin\Debug\net6.0\Cards.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\bin\Debug\net6.0\Cards.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\refint\Cards.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\Cards\obj\Debug\net6.0\ref\Cards.dll

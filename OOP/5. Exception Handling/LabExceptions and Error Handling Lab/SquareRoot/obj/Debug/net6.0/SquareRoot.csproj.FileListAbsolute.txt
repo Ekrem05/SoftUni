@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\5. Exception Handling\LabExceptions and Error Handling Lab\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
