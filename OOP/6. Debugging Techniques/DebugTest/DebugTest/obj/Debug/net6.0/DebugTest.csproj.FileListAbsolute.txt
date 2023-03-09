@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\bin\Debug\net6.0\DebugTest.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\bin\Debug\net6.0\DebugTest.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\bin\Debug\net6.0\DebugTest.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\bin\Debug\net6.0\DebugTest.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\bin\Debug\net6.0\DebugTest.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\refint\DebugTest.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\DebugTest.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedCSharp\OOP\6. Debugging Techniques\DebugTest\DebugTest\obj\Debug\net6.0\ref\DebugTest.dll
