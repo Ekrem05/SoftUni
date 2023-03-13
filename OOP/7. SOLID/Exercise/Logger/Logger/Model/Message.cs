@@ -17,7 +17,7 @@ namespace CustomLogger.Model
             Text = message;
 
         }
-        public ReportLevel ReportLevel { get; private set; }
+        public ReportLevel ReportLevel { get; private set; }//TO DO VALIDATION
 
         public string TimeCreated { get; private set; }
 
