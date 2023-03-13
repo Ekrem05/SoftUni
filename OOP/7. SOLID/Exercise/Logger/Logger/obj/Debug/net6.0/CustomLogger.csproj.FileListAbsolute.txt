@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\bin\Debug\net6.0\CustomLogger.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\bin\Debug\net6.0\CustomLogger.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\bin\Debug\net6.0\CustomLogger.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\bin\Debug\net6.0\CustomLogger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\bin\Debug\net6.0\CustomLogger.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\refint\CustomLogger.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\CustomLogger.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\7. SOLID\Exercise\Logger\Logger\obj\Debug\net6.0\ref\CustomLogger.dll
