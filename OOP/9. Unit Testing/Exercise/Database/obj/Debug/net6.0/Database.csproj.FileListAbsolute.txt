@@ -1,0 +1,12 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\bin\Debug\net6.0\Database.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\9. Unit Testing\Exercise\Database\obj\Debug\net6.0\ref\Database.dll
