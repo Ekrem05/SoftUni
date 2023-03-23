@@ -57,7 +57,6 @@ namespace StockTrackerTester
             Mock<IProduct> mockProduct = new Mock<IProduct>();
             mockProduct.SetupAllProperties();
             mockProduct.Name= "Test";
-
             products.Add(mockProduct.Object);
             Assert.That(products.Contains(mockProduct.Object), Is.True);
 
