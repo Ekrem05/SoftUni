@@ -1,0 +1,27 @@
+TechnicalSubject Mathematics is created and added to the SubjectRepository!
+TechnicalSubject Physics is created and added to the SubjectRepository!
+EconomicalSubject Geography is created and added to the SubjectRepository!
+HumanitySubject Biology is created and added to the SubjectRepository!
+TechnicalSubject Chemistry is created and added to the SubjectRepository!
+HumanitySubject Literature is created and added to the SubjectRepository!
+EconomicalSubject History is created and added to the SubjectRepository!
+TechnicalSubject ComputerProgramming is created and added to the SubjectRepository!
+GreatEinstein university is created and added to the UniversityRepository!
+IbnSena university is created and added to the UniversityRepository!
+Student Alice Pitt is added to the StudentRepository!
+Student Boris Grеy is added to the StudentRepository!
+Student Rob Butterscotch is added to the StudentRepository!
+Alice Pitt covered Biology exam!
+Alice Pitt covered Physics exam!
+Alice Pitt covered Chemistry exam!
+Rob Butterscotch covered Physics exam!
+Rob Butterscotch covered Mathematics exam!
+Alice Pitt has not covered all the required exams for GreatEinstein university!
+Alice Pitt joined IbnSena university!
+Rob Butterscotch has not covered all the required exams for GreatEinstein university!
+Rob Butterscotch covered ComputerProgramming exam!
+Rob Butterscotch joined GreatEinstein university!
+*** GreatEinstein ***
+Profile: Technical
+Students admitted: 1
+University vacancy: 49

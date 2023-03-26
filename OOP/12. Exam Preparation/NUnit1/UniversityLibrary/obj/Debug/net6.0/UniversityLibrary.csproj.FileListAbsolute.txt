@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\1\NUnit\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
