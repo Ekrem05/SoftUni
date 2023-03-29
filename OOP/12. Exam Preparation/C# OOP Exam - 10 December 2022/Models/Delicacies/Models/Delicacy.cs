@@ -22,7 +22,7 @@ namespace ChristmasPastryShop.Models.Delicacies.Models
             get { return name; }
             private set
             {
-                if (string.IsNullOrWhiteSpace(name))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException(ExceptionMessages.NameNullOrWhitespace);
                 }

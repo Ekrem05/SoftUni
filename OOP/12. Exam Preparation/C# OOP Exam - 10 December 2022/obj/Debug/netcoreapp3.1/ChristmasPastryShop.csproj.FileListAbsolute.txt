@@ -1,0 +1,14 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\C# OOP Exam - 10 December 2022\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

@@ -11,7 +11,7 @@ namespace ChristmasPastryShop.Repositories.Models
 {
     public class BoothRepository : IRepository<IBooth>
     {
-        private IReadOnlyCollection<IBooth> models;
+        private List<IBooth> models;
         public BoothRepository()
         {
             models = new List<IBooth>();
@@ -20,7 +20,7 @@ namespace ChristmasPastryShop.Repositories.Models
 
         public void AddModel(IBooth model)
         {
-            Models.ToList().Add(model);
+            models.Add(model);
         }
     }
 }

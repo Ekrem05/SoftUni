@@ -9,7 +9,7 @@ namespace ChristmasPastryShop.Repositories.Models
 {
     public class CocktailRepository : IRepository<ICocktail>
     {
-        private IReadOnlyCollection<ICocktail> models;
+        private List<ICocktail> models;
         public CocktailRepository()
         {
             models = new List<ICocktail>();
@@ -18,7 +18,7 @@ namespace ChristmasPastryShop.Repositories.Models
 
         public void AddModel(ICocktail model)
         {
-            Models.ToList().Add(model);
+            models.Add(model);
         }
     }
 }

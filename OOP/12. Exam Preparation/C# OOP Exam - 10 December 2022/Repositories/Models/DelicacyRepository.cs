@@ -9,7 +9,7 @@ namespace ChristmasPastryShop.Repositories.Models
 {
     public class DelicacyRepository : IRepository<IDelicacy>
     {
-        private IReadOnlyCollection<IDelicacy> models;
+        private List<IDelicacy> models;
         public DelicacyRepository()
         {
             models=new List<IDelicacy>();
@@ -18,7 +18,7 @@ namespace ChristmasPastryShop.Repositories.Models
 
         public void AddModel(IDelicacy model)
         {
-           Models.ToList().Add(model);
+           models.Add(model);
         }
     }
 }
