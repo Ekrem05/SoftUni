@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\bin\Debug\net6.0\BookingApp.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\bin\Debug\net6.0\BookingApp.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\bin\Debug\net6.0\BookingApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\bin\Debug\net6.0\BookingApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\refint\BookingApp.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\12. Exam Preparation\More Exam Prep\obj\Debug\net6.0\ref\BookingApp.dll
