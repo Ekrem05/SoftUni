@@ -103,11 +103,14 @@ namespace PlanetWars.Tests
                     mercury.AddWeapon(new Weapon("M4", 4000, 120));
                     mercury.AddWeapon(new Weapon("M4", 4000, 120));
                     mercury.AddWeapon(new Weapon("M4", 4000, 120));
+                    planet.DestructOpponent(mercury);
                 });
                 Assert.Throws<InvalidOperationException>(() =>
                 {
                     mercury.AddWeapon(new Weapon("M4", 4000, 120));
-                   
+                    planet.DestructOpponent(mercury);
+
+
                 });
             }
         }
