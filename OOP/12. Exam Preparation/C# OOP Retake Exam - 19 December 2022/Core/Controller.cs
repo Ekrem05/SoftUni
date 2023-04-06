@@ -4,8 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UniversityCompetition.Core.Contracts;
-using UniversityCompetition.Models;
 using UniversityCompetition.Models.Contracts;
+using UniversityCompetition.Models.Student;
+using UniversityCompetition.Models.Subject;
+using UniversityCompetition.Models.University;
 using UniversityCompetition.Repositories;
 using UniversityCompetition.Repositories.Contracts;
 using UniversityCompetition.Utilities.Messages;
@@ -14,57 +16,55 @@ namespace UniversityCompetition.Core
 {
     public class Controller : IController
     {
-        private SubjectRepository subjects=new SubjectRepository();
-        private StudentRepository students=new StudentRepository();
-        private UniversityRepository universities = new UniversityRepository();
+        private string[] subjectTypes = new string[3] { "EconomicalSubject", "HumanitySubject", "TechnicalSubject" };
+        private IRepository<ISubject> subjects;
+        private IRepository<IStudent> students;
+        private IRepository<IUniversity> universities;
+        public Controller()
+        {
+            subjects = new SubjectRepository();
+            students = new StudentRepository();
+            universities = new UniversityRepository();
+        }
+
         public string AddStudent(string firstName, string lastName)
         {
-          
-            if (students.FindByName(firstName + " " + lastName)!=null)
+            if (students.FindByName(firstName+" "+lastName) != null)
             {
-                return string.Format(OutputMessages.AlreadyAddedStudent,firstName,lastName);
+                return string.Format(OutputMessages.AlreadyAddedStudent, firstName,lastName);
             }
-            int id = students.Models.Count + 1;
-            IStudent student = new Student(id,firstName,lastName);
+            IStudent student=new Student(students.Models.Count+1,firstName, lastName);
             students.AddModel(student);
-            if (student.LastName== "Grey")
-            {
-                return string.Format(OutputMessages.StudentAddedSuccessfully, firstName, "Grеy", "StudentRepository");
-            }
             return string.Format(OutputMessages.StudentAddedSuccessfully, firstName, lastName, "StudentRepository");
+
         }
 
         public string AddSubject(string subjectName, string subjectType)
         {
-
-            if (subjectType != nameof(TechnicalSubject) &&
-                subjectType != nameof(EconomicalSubject) &&
-                subjectType != nameof(HumanitySubject))
+            ISubject subject;
+            if (!subjectTypes.Contains(subjectType))
             {
-                return string.Format(OutputMessages.SubjectTypeNotSupported,subjectType);
-
+                return string.Format(OutputMessages.SubjectTypeNotSupported, subjectType);
             }
-           
             if (subjects.FindByName(subjectName)!=null)
             {
                 return string.Format(OutputMessages.AlreadyAddedSubject, subjectName);
             }
-            ISubject subject;
-            int id = subjects.Models.Count + 1;
-            if (subjectType==nameof(TechnicalSubject))
+            if (subjectType== "EconomicalSubject")
             {
-                subject = new TechnicalSubject(id, subjectName);
+                subject = new EconomicalSubject(subjects.Models.Count + 1,subjectName);
             }
-            else  if (subjectType == nameof(EconomicalSubject))
+            else if (subjectType == "HumanitySubject")
             {
-                subject = new EconomicalSubject(id, subjectName);
+                subject = new HumanitySubject(subjects.Models.Count + 1, subjectName);
             }
             else
             {
-                subject = new HumanitySubject(id, subjectName);
+                subject = new TechnicalSubject(subjects.Models.Count + 1, subjectName);
             }
             subjects.AddModel(subject);
-            return string.Format(OutputMessages.SubjectAddedSuccessfully,subjectType,subjectName, "SubjectRepository");
+            return string.Format(OutputMessages.SubjectAddedSuccessfully, subjectType,subjectName, "SubjectRepository");
+
         }
 
         public string AddUniversity(string universityName, string category, int capacity, List<string> requiredSubjects)
@@ -73,48 +73,33 @@ namespace UniversityCompetition.Core
             {
                 return string.Format(OutputMessages.AlreadyAddedUniversity, universityName);
             }
-            List<int> marks = new List<int>();
-            foreach (var item in requiredSubjects)
-            {
-                marks.Add(subjects.FindByName(item).Id);
-            }
-
-            IUniversity uni = new University(universities.Models.Count + 1,universityName,category,capacity,marks);
-            universities.AddModel(uni);
+            List<int>ids=requiredSubjects.Select(x=>subjects.FindByName(x).Id).ToList();    
+            IUniversity university=new University(universities.Models.Count+1,universityName,category,capacity, ids);
+            universities.AddModel(university);
             return string.Format(OutputMessages.UniversityAddedSuccessfully, universityName, "UniversityRepository");
+
         }
 
         public string ApplyToUniversity(string studentName, string universityName)
         {
             string firstName = studentName.Split(' ')[0];
-            string secondName = studentName.Split(' ')[1];
-            if (students.FindByName(studentName) ==null)
+            string lastName = studentName.Split(' ')[1];
+            if (students.FindByName(firstName + " " + lastName) == null)
             {
-                return string.Format(OutputMessages.StudentNotRegitered,firstName,secondName);
+                return string.Format(OutputMessages.StudentNotRegitered, firstName, lastName);
             }
             if (universities.FindByName(universityName) == null)
             {
                 return string.Format(OutputMessages.UniversityNotRegitered, universityName);
             }
+            IStudent student = students.FindByName(firstName + " " + lastName);
             IUniversity university = universities.FindByName(universityName);
-            IStudent student = students.FindByName(studentName);
             bool covered = true;
             foreach (var item in university.RequiredSubjects)
-            {             
-                bool itemFound=false;
-                foreach (var exam in student.CoveredExams)
+            {
+                if (!student.CoveredExams.Contains(item))
                 {
-                    if (exam==item)
-                    {
-                        itemFound= true;
-                        break;
-                    }                   
-
-                }
-                if (!itemFound)
-                {
-                    covered = false;
-                    break;
+                    covered= false;
                 }
             }
             if (!covered)
@@ -123,10 +108,10 @@ namespace UniversityCompetition.Core
             }
             if (student.University==university)
             {
-                return string.Format(OutputMessages.StudentAlreadyJoined, firstName,secondName, universityName);
+                return string.Format(OutputMessages.StudentAlreadyJoined, firstName, lastName, universityName);
             }
             student.JoinUniversity(university);
-            return string.Format(OutputMessages.StudentSuccessfullyJoined, firstName, secondName, universityName);
+            return string.Format(OutputMessages.StudentSuccessfullyJoined, firstName, lastName, universityName);
 
         }
 
@@ -140,27 +125,27 @@ namespace UniversityCompetition.Core
             {
                 return string.Format(OutputMessages.InvalidSubjectId);
             }
-            IStudent student=students.FindById(studentId);
+            IStudent student = students.FindById(studentId);
+            ISubject subject = subjects.FindById(subjectId);
             if (student.CoveredExams.Contains(subjectId))
             {
-                return string.Format(OutputMessages.StudentAlreadyCoveredThatExam,student.FirstName,student.LastName,subjects.FindById(subjectId).Name);
+                return string.Format(OutputMessages.StudentAlreadyCoveredThatExam, student.FirstName,student.LastName, subject.Name);
             }
-            student.CoverExam(subjects.FindById(subjectId));
-            return string.Format(OutputMessages.StudentSuccessfullyCoveredExam, student.FirstName, student.LastName, subjects.FindById(subjectId).Name);
+            student.CoverExam(subject);
+            return string.Format(OutputMessages.StudentSuccessfullyCoveredExam, student.FirstName, student.LastName, subject.Name);
 
         }
 
         public string UniversityReport(int universityId)
         {
-            IUniversity university=universities.FindById(universityId);
-            StringBuilder sb=new StringBuilder();
+            IUniversity university = universities.FindById(universityId);
+            StringBuilder sb =new StringBuilder();
             sb.AppendLine($"*** {university.Name} ***");
-            sb.AppendLine($"Profile: { university.Category}");
-            int studentsInThere =students.Models.Where(x=>x.University==university).Count();
-          
-            sb.AppendLine($"Students admitted: {studentsInThere}");
-            sb.AppendLine($"University vacancy: {university.Capacity-studentsInThere}");
+            sb.AppendLine($"Profile: {university.Category}");
+            sb.AppendLine($"Students admitted: {students.Models.Where(x=>x.University==university).Count()}");
+            sb.AppendLine($"University vacancy: {university.Capacity-students.Models.Where(x => x.University == university).Count()}");
             return sb.ToString().TrimEnd();
+
         }
     }
 }

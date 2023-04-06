@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\UniversityCompetition.csproj": {}
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\UniversityCompetition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\UniversityCompetition.csproj": {
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\UniversityCompetition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\UniversityCompetition.csproj",
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\UniversityCompetition.csproj",
         "projectName": "UniversityCompetition",
-        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\UniversityCompetition.csproj",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\UniversityCompetition.csproj",
         "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\obj\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -34,7 +34,7 @@
                 {
                     string result = string.Empty;
 
-                    if (input[0] == "AddSubject")
+                   if (input[0] == "AddSubject")
                     {
                         string subjectName = input[1];
                         string category = input[2];

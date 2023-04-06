@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5x3yOvKmA7IpkXyQWEDeocKtIgGgwn4nUbjATJeOKx5G6LYYheZigdD5mnf5jhypwWI87R2cX+zbeQFfZ0zd6A==",
+  "dgSpecHash": "abth773sHnEUysELF7/QQnluKyiUXn/UxRQhWHWVbaefcjwB81mlxqCYI0jmcXuqUg/zLY4PAmqCqnTEe0jlsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\1\\UniversityCompetition.csproj",
+  "projectFilePath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\OOP\\12. Exam Preparation\\asd\\UniversityCompetition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
     "C:\\Users\\ekrem\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
