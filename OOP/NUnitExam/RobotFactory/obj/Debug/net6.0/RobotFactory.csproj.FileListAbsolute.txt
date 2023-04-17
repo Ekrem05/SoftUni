@@ -1,0 +1,15 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\OOP\NUnitExam\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

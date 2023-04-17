@@ -1,0 +1,58 @@
+IndustrialAssistant K-2SO is created and added to the RobotRepository.
+IndustrialAssistant T-X is created and added to the RobotRepository.
+DomesticAssistant AVA is created and added to the RobotRepository.
+IndustrialAssistant KUSANAGI is created and added to the RobotRepository.
+DomesticAssistant C-3PO is created and added to the RobotRepository.
+DomesticAssistant R2-D2 is created and added to the RobotRepository.
+Robot type SocialAssistant cannot be created.
+DomesticAssistant C-3PO is created and added to the RobotRepository.
+FaceRecognitionCamera is not compatible with our robots.
+SpecializedArm is created and added to the SupplementRepository.
+SpecializedArm is created and added to the SupplementRepository.
+SpecializedArm is created and added to the SupplementRepository.
+SpecializedArm is created and added to the SupplementRepository.
+LaserRadar is created and added to the SupplementRepository.
+LaserRadar is created and added to the SupplementRepository.
+LaserRadar is created and added to the SupplementRepository.
+LaserRadar is created and added to the SupplementRepository.
+Unable to perform service, 10045 not supported!
+C-3PO is upgraded with SpecializedArm.
+C-3PO is upgraded with SpecializedArm.
+All C-3PO are already upgraded!
+C-3PO is upgraded with LaserRadar.
+R2-D2 is upgraded with SpecializedArm.
+KUSANAGI is upgraded with LaserRadar.
+KUSANAGI is upgraded with SpecializedArm.
+PaintRoad cannot be executed! 70000 more power needed.
+DishWashing is performed successfully with 1 robots.
+AutomotiveAssembly is performed successfully with 2 robots.
+Robots fed: 0
+Robots fed: 1
+IndustrialAssistant K-2SO:
+--Maximum battery capacity: 40000
+--Current battery level: 40000
+--Supplements installed: none
+IndustrialAssistant T-X:
+--Maximum battery capacity: 40000
+--Current battery level: 40000
+--Supplements installed: none
+DomesticAssistant AVA:
+--Maximum battery capacity: 20000
+--Current battery level: 20000
+--Supplements installed: none
+IndustrialAssistant KUSANAGI:
+--Maximum battery capacity: 25000
+--Current battery level: 15000
+--Supplements installed: 20082 10045
+DomesticAssistant C-3PO:
+--Maximum battery capacity: 10000
+--Current battery level: 10000
+--Supplements installed: 10045
+DomesticAssistant R2-D2:
+--Maximum battery capacity: 10000
+--Current battery level: 9000
+--Supplements installed: 10045
+DomesticAssistant C-3PO:
+--Maximum battery capacity: 5000
+--Current battery level: 5000
+--Supplements installed: 10045 20082
