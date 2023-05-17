@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <title>Buttons CSS</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,100&display=swap');
+        body{
+            font-family:Kanit;
+            padding-left: 30px;
+            padding-top: 30px;
+            font-size: 16px;
+        }  
+        body.hover{
+            color: black;
+        } 
+        .icon{
+            width: 1em;
+            height: 1em;
+            fill:white;
+        }
+        .button{
+            
+            font-weight: 100;
+            color: black;
+            border-radius: 10px;
+            border-color: black;
+            font-size: 1em;
+            border-style: solid;
+            padding: 2px;
+            padding-left: 10px;
+            padding-right: 20px;
+            text-align: center;
+            margin-right: 25px;
+            outline: none;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .fill{
+            background-color:black;
+            color: white;
+            outline: none;
+        }
+        .fill.hover{
+            color:white;
+        }
+        .hover:hover{
+            cursor: pointer;
+            border-color: green;
+            color: green;
+        }
+        .fill.hover:hover{
+            background-color: green;
+            color: white;
+            outline: none;
+        }
+      </style>
+</head>
+<body>
+    <h2>Noraml Buttons</h2>
+    <a class="button" href="$">Learn more</a>
+    <button class="button">Learn more</button>
+    <button class="button hover">Learn more</button>
+    <h2>Filled Buttons</h2>
+    <a class="button fill" href="$">Learn more</a>
+    <button class="button fill">Learn more</button>
+    <button class="button fill hover">Learn more</button>
+    <h2>Icon Buttons</h2>
+    <a class="button fill" href="$"><svg class="icon"xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24" fill="none">
+        <g id="Interface / Download">
+        <path id="Vector" d="M6 21H18M12 3V17M12 17L17 12M12 17L7 12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+        </svg>Download</a>
+    <button class="button fill"><svg class="icon"xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24" fill="none">
+        <g id="Interface / Download">
+        <path id="Vector" d="M6 21H18M12 3V17M12 17L17 12M12 17L7 12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+        </svg>Download</button>
+    <button class="button fill hover"><svg class="icon"xmlns="http://www.w3.org/2000/svg" width="800px" height="800px" viewBox="0 0 24 24" fill="none">
+        <g id="Interface / Download">
+        <path id="Vector" d="M6 21H18M12 3V17M12 17L17 12M12 17L7 12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+        </svg> Download</button>
+</body>
+</html>
