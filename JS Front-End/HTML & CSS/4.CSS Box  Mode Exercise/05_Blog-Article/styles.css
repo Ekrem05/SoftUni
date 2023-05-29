@@ -1,0 +1,35 @@
+/* TODO: style the html */
+body{
+    background-color: #02475e;
+}
+h2{
+    
+    color: #fefecc;
+    font-size: 36px;
+    text-align: center;
+    margin: 12px;
+}
+p{
+    color:#eee;
+    font-family:Areal,sans-serif;
+    line-height: 24px;
+    padding: 10px;
+    text-indent: 30px;
+}
+div{
+    margin-bottom: 30px;
+    border-top:2px solid #fff;
+    position: relative;
+    top: 20px;
+}
+span{
+    width: 120px;
+    font-size: 14px;
+    text-align: center;
+    background-color: #fff;
+    padding: 3px 5px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    top:-11px;
+}

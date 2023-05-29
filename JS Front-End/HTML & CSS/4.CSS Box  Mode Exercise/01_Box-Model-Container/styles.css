@@ -1,0 +1,26 @@
+/* TODO: style the html */
+body{
+    background-color: lightslategray;
+}
+p{
+    
+    width:300px;
+    background-color: #0F4069;
+    color:whitesmoke;
+    border:2px solid #e6eaef ;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 20px;
+    margin: auto;
+}
+/*
+Width: 300px
+o Paddings: 20px
+o Auto margins
+o Background color: #0F4069
+o Text color: whitesmoke
+o Solid border with size 2px and color #e6eaef
+o Top left and bottom right border radius: 15px
+o Top right and bottom left border radius: 50px */

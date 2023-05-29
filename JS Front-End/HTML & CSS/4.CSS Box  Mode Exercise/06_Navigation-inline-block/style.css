@@ -1,0 +1,16 @@
+html{
+    font-family:Helvetica, sans-serif;
+}
+li{
+    display: inline-block;  
+    padding-right: 12px; 
+}
+nav{
+    display: inline-block;
+}
+h1{
+    display: inline-block;  
+}
+div{
+    border-top: 2px solid black;
+}
