@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 10px;
+}
+.container{
+    display: flex;
+    border: 5px solid black;
+
+}
+.week{
+    display: flex;
+    
+    flex-wrap: wrap;
+}
+.week>:not(.workweek,.weekend){
+    
+    
+    flex:1 1 10%;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    height: 5em;
+    text-align: center;
+
+
+}
+.workweek,.weekend{
+    flex:5 1 100%;
+    text-align: center;
+    height: 5em;
+    border: 1px solid black;
+
+}
+.notes{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: stretch;
+    width:10em;
+}
+.notes>*{
+    border-bottom: 1px solid black; 
+    height: 10em; 
+    text-align: center;
+    text-transform: uppercase;
+}

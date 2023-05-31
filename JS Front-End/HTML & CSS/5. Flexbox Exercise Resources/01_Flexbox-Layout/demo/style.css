@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    border: 2px solid black;
+    flex-wrap: wrap;
+}
+.container>*{
+    border: 1px solid green;
+    padding: 2px;
+    margin: 2px;
+    
+}
+.first{
+    flex:5 1 100%;
+    
+}
+.second{
+    flex:1 1 42%;
+}
+.third{
+    flex:1 1 12%;
+}
