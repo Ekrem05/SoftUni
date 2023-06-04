@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    max-height: 100vh;
+    justify-content: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap:1em;
+}
+.container>img
+{
+    flex:1 1 5em;
+   width: 150px;
+   height: 450px;
+   object-fit: cover;
+}
+    
+.third{
+    width: auto;
+}
