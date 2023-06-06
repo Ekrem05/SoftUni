@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    align-items:flex-start;
+    flex-wrap: wrap;
+    margin: 1em;
+}
+ul{
+    display: flex;
+}
+ul>li{
+    margin: 1em;
+}
+nav{
+    flex-basis: 20%;
+}
+header{
+    align-items: center;
+}
+header>p{
+    flex-basis: 80%;
+   
+}
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+.first>.text{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 50%;
+}
+.first>.text>*{
+padding: 0.5em;
+}
+.first>.text>h2{
+    margin-top: 1em;
+    flex: 1 1 100%;
+    font-size: 40px;
+}
+.first>.text>p{
+   
+    flex: 1 1 100%;
+}
+.buttons{
+    display:flex;
+}
+.buttons>*{
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 0.5em 3em;   
+}
+.buttons>.donate{
+margin-right: 2em;
+}
+.buttons>.join{
+    margin-right: 2em;
+    color:white;
+    background-color: black;
+}
+.second{
+    display: flex;
+    flex-wrap: wrap;
+}
+.opening{
+    margin: 2em 0em;
+    flex: 1 1 100%;
+    display: flex;
+    flex-wrap: wrap;
+   gap:1em;
+}
+.opening>*{
+    flex: 1 1 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.opening>:nth-child(2){
+    font-weight: lighter;
+}
+.second>.images>ul>li>i{
+font-size: 200px;
+color: aqua;
+flex: 1 1 100%;
+text-align: center;
+margin-top:0.25em;
+margin-bottom: 0.2em;
+}
+.second>.images>ul>li{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+
+}
+.second>.images>ul>li>h3{
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+.second>.images>ul>li>p{
+    text-align: center;
+    width: 30em;
+}
+
+.third{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: aqua;
+    
+}
+.third>ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.third>ul>li{
+   flex-basis:50%;
+   margin: 3px;
+}
+.third>ul>li>p{
+   text-align: center;
+}
