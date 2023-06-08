@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: PT Serif;
+}
+.reference{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 10px 20px;
+
+}
+.reference>*{
+    color: white;
+}
+.header-section{
+background: url(image/fitness-main.jpg) no-repeat center center;
+background-size:cover;
+height: 600px;
+
+}
+.header-section{
+    text-align: center;
+}
+.header-section>nav>ul{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+   padding-top:20px ;
+    font-size: 20px;
+    gap: 30px;
+}
+.header-section>nav>ul>li>p{
+    color: white;
+    font-weight: lighter;
+}
+.title>*{
+   color: white;
+}
+.title>h1{
+    margin-top: 200px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+.title>p{
+    
+    margin-bottom: 20px;
+    
+}
+.title>button{
+    border: 1px solid red;
+    color: white;
+    padding: 2px 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+    background-color: red;
+    border-radius: 6px;
+}
+.approach>h1{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-bottom: 30px;
+    
+}
+
+.approach>h1::after{
+    content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3%; /* Adjust this value to control the length of the bottom border */
+  border-bottom: 2px solid red;
+}
+.coaches>h1{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+.coaches>h1::after{
+    content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3%; /* Adjust this value to control the length of the bottom border */
+  border-bottom: 2px solid red;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.coaches{
+    text-align: center;
+}
+.approach{
+    text-align: center;
+}
+.container>.card>i{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.container>.card>.third{
+    transform: rotate(-45deg);
+}
+.container>.card>h5{
+    color: red;
+    margin-bottom: 10px;
+}
+.coaches p{
+    width: 350px;
+    color:rgb(177, 168, 168);
+}
+footer{
+    background-color: red;
+    padding: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
