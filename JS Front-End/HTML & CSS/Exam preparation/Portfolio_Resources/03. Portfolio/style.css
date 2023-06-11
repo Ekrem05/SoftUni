@@ -127,7 +127,7 @@ section.first .desc p{
     margin-top: 10em;
 }
 .fifth>*{
-    width: 700px;
+    width: 500px;
 }
 .fifth>*:hover{
     transform:scale(1.2);
