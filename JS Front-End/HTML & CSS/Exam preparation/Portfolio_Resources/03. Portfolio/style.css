@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: Raleway,sans-serif;
+    font-size: 16px;
+    margin: 4em 4em;
+}
+.menu {
+ 
+    display: flex;
+    justify-content: flex-end;
+}
+.menu p svg {
+    width: 16px;
+ 
+}
+
+section.first{
+    margin: 2em 2em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10em;
+}
+section.first .desc{
+    margin-left: 3em;
+    flex-basis: 30%;
+    font-size: 20px;
+}
+section.first div.line{
+   border-left: 1px solid black;
+   height: 90px;
+}
+section.first img{
+    flex-basis: 40%;
+    width: 400px;
+}
+section.first .desc h1{
+    font-weight: normal;
+    font-size: 30px;
+}
+section.first .desc span{
+    font-weight: bold;
+}
+section.first .desc p{
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+/*second
+*/
+.second{
+    margin: 2em 2em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10em;
+}
+.second img{
+   
+    width: 400px;
+    height: auto;
+    order:1;
+}
+.second .desc{
+    margin-left: 3em;
+    flex-basis: 30%;
+    font-size: 20px;
+    order:2;
+}
+.second .desc h1{
+    font-weight: normal;
+    font-size: 30px;
+}
+.second .desc span{
+    font-weight: bold;
+}
+.second .desc p{
+    font-style: italic;
+    font-size: 16px;
+
+}
+.second .desc i{
+    color:rgb(144 144 144) ;
+    margin-right: 0.5em;
+}
+
+
+
+.forth{
+    margin: 2.5em 2em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10em;
+}
+.forth .desc{
+    margin-left: 3em;
+    flex-basis: 30%;
+    font-size: 20px;
+}
+.forth div.line{
+   border-left: 1px solid black;
+   height: 90px;
+}
+.forth img{
+    flex-basis: 40%;
+    width: 400px;
+}
+.forth .desc h1{
+    font-weight: normal;
+    font-size: 30px;
+}
+.forth .desc span{
+    font-weight: bold;
+}
+.forth .desc p{
+    font-style: italic;
+    font-size: 16px;
+
+}
+
+
+.fifth{
+    display:flex;
+    gap:1em;
+    margin-top: 10em;
+}
+.fifth>*{
+    width: 700px;
+}
+.fifth>*:hover{
+    transform:scale(1.2);
+    
+}
