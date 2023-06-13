@@ -1,0 +1,183 @@
+ @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;0,700;0,900;1,100;1,300;1,400;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Lato,sans-serif;
+    
+
+}
+h1, h2, h3, h4, h5, h6{
+    font-family:Montserrat,sans-serif ;
+}
+.navigation svg{
+    width: 8em;
+}
+.navigation nav{
+    margin: 1em;
+    display: flex;
+    align-items: center;
+}
+.navigation nav h1{
+    flex-basis: 70%;
+    margin-left: 5em;
+}
+
+.navigation nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+.navigation nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(101 110 134);;
+}
+
+
+.fees{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fees .background{
+    display: flex;
+    flex-basis: 100%;
+    flex-wrap: wrap;
+    background-color: rgb(84 84 109);;
+    height: 300px;
+    align-items: flex-start;
+}
+.fees .background h1{
+    color:white;
+    margin-left: 33em;
+    margin-top: 2em;
+    font-weight: 500;
+}
+.fees .background svg{
+    margin-left:-4.5em;
+    margin-top:3em;
+
+}
+.fees .background .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap:1em;
+    text-align: center;
+}
+.fees .background .card-container .card{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    width: 400px;
+    margin-top: -8em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap:1em;
+}
+.fees .background .card-container h2{
+    flex-basis: 100%;
+    margin-top: 1em;
+}
+.fees .background .card-container p{
+    flex-basis: 100%;
+}
+
+.fees .background .card-container .card footer{
+    flex-basis: 100%;
+    height: 100px;
+    align-self: flex-end;
+    display: flex;
+    font-weight: normal;
+}
+.fees .background .card-container .card footer h2,.fees .background .card-container .card footer param{
+   
+    font-weight: 500;
+}
+.fees .background .card-container .Basics{
+   margin-left: 20em;
+}
+.fees .background .card-container .Basics p{
+   margin-top: -1.3em;
+}
+.fees .background .card-container .Basics button{
+   background-color: rgb(154 93 198);
+   font-size: 19px;
+   text-transform: uppercase;
+   border-style: none;
+   border-color: rgb(154 93 198);
+   text-align: center;
+   border-radius: 10px;
+   color: white;
+   padding: 0.5em 1.5em;
+}
+.fees .background .card-container .Basics footer{
+    background-color: rgb(15 165 72);
+    display: flex;
+    color:white;
+    flex-basis: 100%;
+    flex-wrap: wrap;
+}
+.fees .background .card-container .Fundamentals footer{
+    background-color:rgb(89 135 178);
+    display: flex;
+    align-self: flex-end;
+    flex-wrap: wrap;
+    color: white;
+    
+}
+.fees .background .card-container .Fundamentals footer .first{
+    flex-basis: 50%;
+    margin-left: 1em;
+    margin: 0.5em 0em;
+    border-right: 1px solid white;
+}
+.fees .background .card-container .Fundamentals footer .second{
+    
+    margin: 0.5em 1.6em;
+    
+}
+.fees .background .card-container .Pro footer{
+    background-color: rgb(113 96 200);
+    color: white;
+
+}
+.fees .background .card-container .Pro footer .first{
+    flex-basis: 50%;
+    margin-left: 1em;
+    margin: 0.5em 0em;
+    border-right: 1px solid white;
+}
+.fees .background .card-container .Pro footer .second{
+    
+    margin: 0.5em 1.6em;
+    
+}
+.fees .background .card-container .card footer h2{
+    flex-basis: 100%;
+    
+}
+
+
+.desc{
+    margin: 13em 4em 3em 3em;
+}
+.desc .row{
+    display: flex;
+    margin-left: 1em;
+    background-color: rgb(230 230 230);
+}
+.desc .nu1{
+    margin-top: 2em;
+}
+.desc .row p{
+flex-basis: 70%;
+}
+.desc .row .mark1{
+flex-basis: 15%;
+}
+.desc .row .mark2{
+flex-basis: 15%;
+}
