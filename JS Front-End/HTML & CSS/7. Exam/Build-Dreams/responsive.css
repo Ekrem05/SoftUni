@@ -1,0 +1,50 @@
+@media (max-width: 600px) 
+{   .home-container{
+    flex-wrap: wrap;
+    }
+    .home-hero
+    {
+        align-items: start;
+        flex-wrap: wrap;
+    }
+    .home-image1{
+        width: 100%;
+    }
+    .home-hero-text-container{
+        order:2;
+        width: 100%;
+        justify-content:center;
+    }
+    .home-image1{
+        order:1;
+    }
+    .home-cta-btn2 {
+        width: 10em;
+        align-self: center;
+    }
+    .home-features{
+        flex-basis: 100%;
+       height: auto;
+    }
+    .home-text05 {
+    width:32em ;
+    }
+    .home-text06 {
+    width:32em ;
+    }
+    .home-text07 {
+    width:32em ;
+    }
+    .home-heading-container{
+        width: 100%;
+    }
+    .home-cards-container>*{
+        flex-basis: 100%;
+    }
+    .home-stats{
+    
+       display: flex; 
+        flex-direction: column;
+    }
+    
+}
