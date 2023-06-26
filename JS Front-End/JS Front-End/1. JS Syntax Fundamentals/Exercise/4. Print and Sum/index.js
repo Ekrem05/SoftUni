@@ -1,8 +1,11 @@
-function leapOrNot(year) {
-  if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0) {
-    console.log("yes");
-  } else {
-    console.log("no");
+function printAndSum(start, end) {
+  let array = [];
+  let sum = 0;
+  for (i = start; i <= end; i++) {
+    array.push(i);
+    sum += i;
   }
+  console.log(array.join(" "));
+  console.log(`Sum: ${sum}`);
 }
-leapOrNot(4);
+printAndSum(50, 60);
