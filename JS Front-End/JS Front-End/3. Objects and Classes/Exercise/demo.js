@@ -1,6 +1,8 @@
-const string1 = "Php";
-const string2 = "PHP";
+const obj = {
+  prop1: "value1",
+  prop2: "value2",
+};
 
-const isCaseSensitive = string1 == string2;
+delete obj.prop1;
 
-console.log(isCaseSensitive); // Output: false
+console.log(obj); // Output: { prop2: 'value2' }
