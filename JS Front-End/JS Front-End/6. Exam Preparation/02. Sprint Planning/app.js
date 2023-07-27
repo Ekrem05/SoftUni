@@ -17,7 +17,7 @@ function solve() {
     points: document.querySelector("#total-sprint-points"),
   };
   buttons.createButton.addEventListener("click", createTask);
-  function createTask(e) {
+  async function createTask(e) {
     if (Object.values(fields).some((key) => key.value == "")) {
       return;
     }
@@ -123,7 +123,6 @@ function solve() {
 
     const article = document.getElementById(buttons.hiddenInput.value);
     const tasksSection = document.querySelector("#tasks-section");
-    console.log(article);
     tasksSection.removeChild(article);
     fields.title.value = "";
     fields.description.value = "";
