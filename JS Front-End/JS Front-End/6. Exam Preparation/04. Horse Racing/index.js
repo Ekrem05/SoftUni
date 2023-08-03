@@ -57,10 +57,14 @@ function solve(array) {
     if (!finish) {
       switch (action) {
         case "Retake":
-          const first = actions[1];
-          const second = actions[2];
+          const first = horseTrack.indexOf(actions[1]);
+          const second = horseTrack.indexOf(actions[2]);
           if (first < second) {
-            horseTrack = trackActions.Retake(horseTrack, first, second);
+            horseTrack = trackActions.Retake(
+              horseTrack,
+              actions[1],
+              actions[2]
+            );
           }
           break;
         case "Rage":
@@ -85,4 +89,4 @@ function solve(array) {
   });
 }
 
-solve(["Onyx|Domino|Sugar|Fiona", "Finish"]);
+solve(["Fancy|Lilly", "Rage Lilly", "Finish"]);
