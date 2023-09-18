@@ -48,3 +48,31 @@ Where DepartmentID !=4
 Select *
 from Employees
 ORDER BY Salary DESC, FirstName ASC, LastName DESC, MiddleName ASC;
+
+CREATE VIEW V_EmployeesSalaries as 
+Select FirstName, LastName, Salary
+from Employees
+
+CREATE VIEW V_EmployeeNameJobTitle as 
+Select CONCAT_WS(' ',FirstName,MiddleName,LastName) as 'Full Name', JobTitle AS 'Job Title'
+from Employees
+
+
+Select Distinct JobTitle
+from Employees
+
+Select TOP 10 *
+from Projects
+Order by StartDate ASC,NAME ASC
+
+Select TOP 7 FirstName, LastName, HireDate
+from Employees
+Order by HireDate Desc
+
+Update Employees
+Set Salary-=Salary*0.12
+Where DepartmentID=1 or DepartmentID=2 or DepartmentID=11
+
+Select PeakName
+from Peaks
+Order By PeakName
