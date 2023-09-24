@@ -23,3 +23,9 @@ Select TownID, [Name]
 from Towns
 WHERE [Name] LIKE 'M%' OR [Name] LIKE 'K%' OR [Name] LIKE 'B%' OR [Name] LIKE 'E%'
 Order by [Name]
+
+
+Select TownID, [Name]
+from Towns
+WHERE [Name] not LIKE 'R%' and [Name] not LIKE 'D%' and [Name] not LIKE 'B%' 
+Order by [Name]
