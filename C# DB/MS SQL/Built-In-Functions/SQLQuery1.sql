@@ -29,3 +29,4 @@ Select TownID, [Name]
 from Towns
 WHERE [Name] not LIKE 'R%' and [Name] not LIKE 'D%' and [Name] not LIKE 'B%' 
 Order by [Name]
+
