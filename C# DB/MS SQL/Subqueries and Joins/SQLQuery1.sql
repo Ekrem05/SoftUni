@@ -30,9 +30,7 @@ Order by e.DepartmentID asc
 
 Select top 3 e.EmployeeID,FirstName
 from Employees as e
-Join EmployeesProjects as ep
-on e.EmployeeID=ep.EmployeeID
-Where ep.ProjectID=null
+Where e.EmployeeID not in(Select EmployeeID from EmployeesProjects)
 Order by e.EmployeeID asc
 
 Select FirstName,LastName,HireDate,d.[Name] as DeptName
@@ -41,3 +39,12 @@ Join Departments as d
 on e.DepartmentID=d.DepartmentID
 Where e.HireDate>'1/1/1999' AND d.[Name]='Sales' or d.[Name]='Finance'
 Order by e.HireDate asc
+
+Select top 5 e.EmployeeID,FirstName,p.[Name] as ProjectName
+from Employees as e
+Join EmployeesProjects as ep
+on e.EmployeeID=ep.EmployeeID
+join Projects as p
+on ep.ProjectID=p.ProjectID
+Where p.StartDate>'2002-08-13' 
+Order by EmployeeID asc
