@@ -12,3 +12,12 @@ join Towns as t
 on a.TownID=t.TownID
 order by e.FirstName asc, LastName asc
 
+
+
+Select EmployeeID,FirstName,LastName,d.Name as DepartmentName
+from Employees as e
+Join Departments as d
+on e.DepartmentID=d.DepartmentID
+Where d.Name='Sales'
+Order by EmployeeID asc
+
