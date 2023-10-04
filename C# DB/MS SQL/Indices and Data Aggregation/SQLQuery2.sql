@@ -50,3 +50,11 @@ Select  LEFT(FirstName,1) as FirstLetter
 from WizzardDeposits
 WHERE DepositGroup='Troll Chest'
 Group by LEFT(FirstName,1)
+
+
+Select DepositGroup,IsDepositExpired,AVG(DepositInterest) as AverageInterest
+from WizzardDeposits
+WHERE DepositStartDate>'01/01/1985'
+GROUP BY DepositGroup,IsDepositExpired
+ORDER BY DepositGroup desc
+
