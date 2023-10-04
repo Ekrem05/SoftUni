@@ -29,5 +29,3 @@ GROUP BY DepartmentID
 Having Max(Salary) not between 30000 and 70000
 
 Select Count(*) as Count
-from Employees
-Where ManagerID is null
