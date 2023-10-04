@@ -46,5 +46,5 @@ Join EmployeesProjects as ep
 on e.EmployeeID=ep.EmployeeID
 join Projects as p
 on ep.ProjectID=p.ProjectID
-Where p.StartDate>'2002-08-13' 
+Where p.StartDate>'2002-08-13' and p.endDate is null 
 Order by EmployeeID asc
