@@ -22,3 +22,12 @@ Where DepartmentID=1
 Select DepartmentID, AVG(Salary) as AverageSalary
 from EmployeesNew
 Group by DepartmentID
+
+Select DepartmentID, MAX(Salary) as MaxSalary
+from Employees
+GROUP BY DepartmentID
+Having Max(Salary) not between 30000 and 70000
+
+Select Count(*) as Count
+from Employees
+Where ManagerID is null
