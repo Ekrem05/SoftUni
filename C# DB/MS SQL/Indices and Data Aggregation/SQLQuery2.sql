@@ -45,3 +45,8 @@ SELECT AgeGroups, Count(*) as [WizzardCount] FROM(
 		END as AgeGroups
 	FROM WizzardDeposits) AS ASD
 Group by AgeGroups
+
+Select  LEFT(FirstName,1) as FirstLetter 
+from WizzardDeposits
+WHERE DepositGroup='Troll Chest'
+Group by LEFT(FirstName,1)
