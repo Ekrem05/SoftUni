@@ -74,15 +74,27 @@ Create FUNCTION ufn_IsWordComprised(@setOfLetters varchar(100), @word varchar(20
 	AS
 	BEGIN
 		DECLARE @i INT=1
-		WHILE(@i<LEN(@word))
+		WHILE(@i<=LEN(@word))
 		BEGIN
 			DECLARE @letter char=SUBSTRING(@word,@i,1)
 			IF(CHARINDEX(@letter,@setOfLetters)=0)
 				RETURN 0
 			ELSE
-			SET @I+=1
+			SET @i+=1
 		END
 		RETURN 1
 	END
 
-	Select dbo.ufn_IsWordComprised PPPP,ASD
+	Select dbo.ufn_IsWordComprised ('HELLO','HELLO')
+
+
+	Create Procedure usp_DeleteEmployeesFromDepartment(@departmentId INT)
+	AS 
+	DELETE Employees
+	WHERE DepartmentID=@departmentId
+	Delete Departments
+	WHERE DepartmentID=@departmentId
+	SELECT COUNT(*)
+	from Employees
+	Where DepartmentID=@departmentId
+
