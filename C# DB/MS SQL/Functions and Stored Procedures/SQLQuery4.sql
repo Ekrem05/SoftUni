@@ -52,7 +52,37 @@ RETURNS varchar(10)
         SET @result = 'Average'
     ELSE
         SET @result = 'High'
-
+		`
     RETURN @result
 	END
 	
+SELECT Salary,dbo.ufn_GetSalaryLevel(Salary)
+from Employees
+
+
+Create procedure usp_EmployeesBySalaryLevel(@level varchar(10))
+	as 
+		Select FirstName,LastName
+		from Employees
+		Where dbo.ufn_GetSalaryLevel(Salary)=@level
+
+		Exec usp_EmployeesBySalaryLevel 'High'
+
+
+Create FUNCTION ufn_IsWordComprised(@setOfLetters varchar(100), @word varchar(20))
+	RETURNS BIT
+	AS
+	BEGIN
+		DECLARE @i INT=1
+		WHILE(@i<LEN(@word))
+		BEGIN
+			DECLARE @letter char=SUBSTRING(@word,@i,1)
+			IF(CHARINDEX(@letter,@setOfLetters)=0)
+				RETURN 0
+			ELSE
+			SET @I+=1
+		END
+		RETURN 1
+	END
+
+	Select dbo.ufn_IsWordComprised PPPP,ASD
