@@ -133,3 +133,33 @@ ON p.VendorId=v.Id
 WHERE V.NumberVAT like'%FR%'
 GROUP BY c.[Name]
 ORDER BY 'Average Price' asc, c.[Name]desc
+
+CREATE PROCEDURE usp_SearchByCountry(@country VARCHAR(50))
+AS
+ SELECT v.[Name] as Vendor, NumberVAT as VAT,
+ CONCAT(StreetName,' ',StreetNumber)as 'Street Info',CONCAT(City,' ',PostCode) AS 'City Info'
+ FROM Vendors as v
+ join Addresses as a
+ ON v.AddressId=a.Id
+ JOIN Countries as c
+ ON a.CountryId=c.Id
+ WHERE a.CountryId=(Select Id from Countries Where [Name]=@country)
+
+
+ EXEC usp_SearchByCountry 'France'
+
+ CREATE FUNCTION udf_ProductWithClients(@name VARCHAR(50))
+ RETURNS INT
+ AS 	
+	BEGIN 
+		DECLARE @result int
+		set @result=(Select COUNT(*)
+					FROM Products as p
+					JOIN ProductsClients as pc
+					ON p.Id=pc.ProductId
+					Where p.[Name]=@name
+					)
+		RETURN @result
+	 END
+
+	 SELECT dbo.udf_ProductWithClients('DAF FILTER HU12103X')
