@@ -121,3 +121,15 @@ ON pc.ProductId = p.Id
 group by c.[Name],NumberVAT
 having RIGHT(c.Name,2)!='KG'
 ORDER BY Price desc
+
+SELECT c.[Name], FLOOR(AVG(p.Price))as 'Average Price'
+From Clients as c
+JOIN ProductsClients AS pc
+ON c.Id=pc.ClientId
+JOIN Products as p
+ON p.Id= pc.ProductId
+join Vendors AS v
+ON p.VendorId=v.Id
+WHERE V.NumberVAT like'%FR%'
+GROUP BY c.[Name]
+ORDER BY 'Average Price' asc, c.[Name]desc
