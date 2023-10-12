@@ -111,3 +111,13 @@ JOIN Clients as c
 ON i.ClientId = c.Id
 WHERE IssueDate<'2023-01-01' AND Currency='EUR' OR Amount>500.00 AND LEFT(c.NumberVAT,2)='DE'
 ORDER BY i.Number asc, Amount desc
+
+SELECT c.[Name] as Client, MAX(Price) as Price ,NumberVAT as 'VAT Number'
+from Clients as c
+JOIN ProductsClients as pc
+ON c.Id=pc.ClientId
+JOIN Products as p
+ON pc.ProductId = p.Id
+group by c.[Name],NumberVAT
+having RIGHT(c.Name,2)!='KG'
+ORDER BY Price desc
