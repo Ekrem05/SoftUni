@@ -105,5 +105,9 @@ left JOIN ProductsClients as pc
 ON pc.ClientId=c.Id
 WHERE ProductId is null
 
-select *
-from Addresses
+SELECT TOP 7 Number,Amount, c.[Name]
+from Invoices as i
+JOIN Clients as c
+ON i.ClientId = c.Id
+WHERE IssueDate<'2023-01-01' AND Currency='EUR' OR Amount>500.00 AND LEFT(c.NumberVAT,2)='DE'
+ORDER BY i.Number asc, Amount desc
