@@ -86,3 +86,10 @@ where  Id in (11)
 SELECT Number,Currency
 from Invoices
 ORDER BY Amount DESC, DueDate ASC
+
+SELECT p.Id,p.[Name],Price,c.[Name]
+from Products as p
+JOIN Categories as c
+ON p.CategoryId=c.Id
+where c.[Name]='ADR' OR c.[Name]='Others'
+ORDER BY Price DESC
