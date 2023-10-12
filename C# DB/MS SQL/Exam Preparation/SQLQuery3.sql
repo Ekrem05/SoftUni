@@ -93,3 +93,17 @@ JOIN Categories as c
 ON p.CategoryId=c.Id
 where c.[Name]='ADR' OR c.[Name]='Others'
 ORDER BY Price DESC
+
+SELECT c.Id,c.[Name],
+CONCAT(a.StreetName,' ',a.StreetNumber,', ',a.City,', ',a.PostCode,', ',co.Name) as 'Address'
+from Clients as c
+JOIN Addresses as a
+ON c.AddressId=a.Id
+JOIN Countries as co
+ON a.CountryId=co.Id
+left JOIN ProductsClients as pc
+ON pc.ClientId=c.Id
+WHERE ProductId is null
+
+select *
+from Addresses
