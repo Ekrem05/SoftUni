@@ -19,11 +19,11 @@ namespace SoftUni
                     e.MiddleName,
                     e.LastName,
                     e.Salary,
-                    e.HireDate
+                    e.JobTitle
                 }).ToList();
 
             StringBuilder sb = new();
-            sb.Append(string.Join(Environment.NewLine, employees.Select(e => $"{e.FirstName} {e.MiddleName} {e.LastName} {e.Salary:f2} {e.HireDate}")));
+            sb.Append(string.Join(Environment.NewLine, employees.Select(e => $"{e.FirstName} {e.LastName} {e.MiddleName} {e.JobTitle} {e.Salary:f2}")));
             return sb.ToString();
         }
     }
