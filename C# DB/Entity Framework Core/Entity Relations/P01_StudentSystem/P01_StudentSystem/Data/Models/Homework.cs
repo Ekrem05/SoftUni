@@ -14,16 +14,16 @@ namespace P01_StudentSystem.Data.Models
         [Key]
         public int HomeworkId { get; set; }
         [Column("Content", TypeName="text")]
-        public string? Content { get; set; }
+        public string Content { get; set; }
         public enum ContentType { Application, Pdf, Zip }
         
-        public DateTime? SubmissionTime { get; set; }
+        public DateTime SubmissionTime { get; set; }
         public int StudentId { get; set; }
         [ForeignKey("StudentId")]
-        public Student? Student { get; set; }
+        public Student Student { get; set; }
         public int CourseId { get; set; }
         [ForeignKey("CourseId")]
-        public Course? Course { get; set; }
+        public Course Course { get; set; }
 
     }
 }

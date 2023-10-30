@@ -24,12 +24,12 @@ namespace P01_StudentSystem.Data.Models
         public int CourseId { get; set; }
 
         [Column("Name", TypeName = "nvarchar(100)")]
-        public string? Name { get; set; }
+        public string Name { get; set; }
         [Column("Description", TypeName="nvarchar(80)")]
         [AllowNull]
-        public string? Description { get; set; }
-        public DateTime? StartDate { get; set; }
-        public DateTime? EndDate { get; set; }
+        public string Description { get; set; }
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
         [Column("Price", TypeName = "money")]
 
         public decimal Price { get; set; }

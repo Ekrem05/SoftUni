@@ -14,9 +14,9 @@ namespace P01_StudentSystem.Data.Models
         [Key]
         public int ResourceId { get; set; }
         [Column("Name", TypeName="nvarchar(50)")]
-        public string? Name { get; set; }
-        [Column("URL", TypeName = "text")]
-        public string? Url { get; set; }
+        public string Name { get; set; }
+        [Column("Url", TypeName = "text")]
+        public string Url { get; set; }
        
         public enum ResourceType {Video, Presentation, Document, Other}
 
