@@ -20,11 +20,9 @@ namespace P01_StudentSystem.Data.Models
         }
         [Key]
         public int StudentId { get; set; }
-        [Column("Name", TypeName="nvarchar(100)")]
-        public string? Name { get; set; }
-        [Column("PhoneNumber", TypeName = "char(10)")]
-        public string? PhoneNumber { get; set; }
-        public DateTime? RegisteredOn { get; set; }
+        public string Name { get; set; }
+        public string PhoneNumber { get; set; }
+        public DateTime RegisteredOn { get; set; }
         public DateTime? Birthday{ get; set; }
         public ICollection<Homework> Homeworks { get; set; }
         public ICollection<StudentCourse> StudentsCourses { get; set; }

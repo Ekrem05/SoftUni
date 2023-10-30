@@ -15,10 +15,10 @@ namespace P01_StudentSystem.Data
         {
 
         }
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=StudentSystem;Integrated Security=True");
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=StudentSystem;Integrated Security=True");
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<StudentCourse>()
@@ -26,7 +26,24 @@ namespace P01_StudentSystem.Data
             modelBuilder.Entity<Student>()
                 .Property(s => s.RegisteredOn)
                 .HasColumnType("datetime2");
-                
+            modelBuilder.Entity<Student>()
+                .Property(s => s.Name)
+                .HasMaxLength(100)
+                .IsUnicode(true);
+            modelBuilder.Entity<Student>()
+                .Property(s => s.PhoneNumber)
+                .IsFixedLength(true)
+                .IsUnicode(false)
+                .IsRequired(false);
+            modelBuilder.Entity<Student>()
+                .Property(s => s.RegisteredOn)
+                .HasColumnType("datetime2");
+            modelBuilder.Entity<Student>()
+               .Property(s => s.Birthday)
+               .HasColumnType("datetime2")
+               .IsRequired(false);
+
+
         }
         public DbSet<Course> Courses { get; set; }
         public DbSet<Homework> Homeworks { get; set; }

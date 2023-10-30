@@ -13,9 +13,8 @@ namespace P01_StudentSystem.Data.Models
     {
         [Key]
         public int HomeworkId { get; set; }
-        [Column("Content", TypeName="text")]
         public string Content { get; set; }
-        public enum ContentType { Application, Pdf, Zip }
+        public ContentType ContentType { get; set; }
         
         public DateTime SubmissionTime { get; set; }
         public int StudentId { get; set; }

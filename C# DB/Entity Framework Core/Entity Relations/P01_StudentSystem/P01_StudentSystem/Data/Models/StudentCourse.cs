@@ -13,10 +13,10 @@ namespace P01_StudentSystem.Data.Models
         public int StudentId { get; set; }
 
         [ForeignKey("StudentId")]
-        public Student? Student { get; set; }
+        public Student Student { get; set; }
         public int CourseId { get; set; }
         [ForeignKey("CourseId")]
-        public Course? Course { get; set; }
+        public Course Course { get; set; }
 
     }
 }

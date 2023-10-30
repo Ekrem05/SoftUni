@@ -13,16 +13,14 @@ namespace P01_StudentSystem.Data.Models
     {
         [Key]
         public int ResourceId { get; set; }
-        [Column("Name", TypeName="nvarchar(50)")]
         public string Name { get; set; }
-        [Column("Url", TypeName = "text")]
         public string Url { get; set; }
        
-        public enum ResourceType {Video, Presentation, Document, Other}
+        public ResourceType ResourceType {get; set; }   
 
         public int CourseId { get; set; }
         [ForeignKey("CourseId")]
-        public Course? Course { get; set; }
+        public Course Course { get; set; }
 
 
     }
