@@ -31,13 +31,16 @@ namespace P01_StudentSystem.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
 
                     b.Property<string>("Description")
+                        .IsUnicode(true)
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("EndDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(80)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(80)");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
@@ -61,8 +64,9 @@ namespace P01_StudentSystem.Migrations
                     b.Property<string>("Content")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ContentType")
-                        .HasColumnType("int");
+                    b.Property<string>("ContentType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(15)");
 
                     b.Property<int>("CourseId")
                         .HasColumnType("int");
@@ -94,13 +98,17 @@ namespace P01_StudentSystem.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("ResourceType")
-                        .HasColumnType("int");
+                    b.Property<string>("ResourceType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(15)");
 
                     b.Property<string>("Url")
-                        .HasColumnType("nvarchar(max)");
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(max)");
 
                     b.HasKey("ResourceId");
 
@@ -127,7 +135,7 @@ namespace P01_StudentSystem.Migrations
 
                     b.Property<string>("PhoneNumber")
                         .IsUnicode(false)
-                        .HasColumnType("char")
+                        .HasColumnType("char(10)")
                         .IsFixedLength();
 
                     b.Property<DateTime>("RegisteredOn")

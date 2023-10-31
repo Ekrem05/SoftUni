@@ -12,8 +12,8 @@ using P01_StudentSystem.Data;
 namespace P01_StudentSystem.Migrations
 {
     [DbContext(typeof(StudentSystemContext))]
-    [Migration("20231030171236_Initial")]
-    partial class Initial
+    [Migration("20231031075949_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,14 +34,19 @@ namespace P01_StudentSystem.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
 
                     b.Property<string>("Description")
-                        .HasColumnType("nvarchar(80)")
-                        .HasColumnName("Description");
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("EndDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("Price")
-                        .HasColumnType("int");
+                    b.Property<string>("Name")
+                        .HasMaxLength(80)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(80)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<DateTime>("StartDate")
                         .HasColumnType("datetime2");
@@ -60,8 +65,11 @@ namespace P01_StudentSystem.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HomeworkId"));
 
                     b.Property<string>("Content")
-                        .HasColumnType("text")
-                        .HasColumnName("Content");
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ContentType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(15)");
 
                     b.Property<int>("CourseId")
                         .HasColumnType("int");
@@ -93,12 +101,17 @@ namespace P01_StudentSystem.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(50)")
-                        .HasColumnName("Name");
+                        .HasMaxLength(50)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(50)");
 
-                    b.Property<string>("URL")
-                        .HasColumnType("text")
-                        .HasColumnName("URL");
+                    b.Property<string>("ResourceType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(15)");
+
+                    b.Property<string>("Url")
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(max)");
 
                     b.HasKey("ResourceId");
 
@@ -115,38 +128,40 @@ namespace P01_StudentSystem.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("StudentId"));
 
-                    b.Property<DateTime>("BirthDate")
+                    b.Property<DateTime?>("Birthday")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(100)")
-                        .HasColumnName("Name");
+                        .HasMaxLength(100)
+                        .IsUnicode(true)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("PhoneNumber")
+                        .IsUnicode(false)
                         .HasColumnType("char(10)")
-                        .HasColumnName("PhoneNumber");
+                        .IsFixedLength();
 
-                    b.Property<bool>("RegisteredOn")
-                        .HasColumnType("bit");
+                    b.Property<DateTime>("RegisteredOn")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("StudentId");
 
                     b.ToTable("Students");
                 });
 
-            modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourses", b =>
+            modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourse", b =>
                 {
-                    b.Property<int>("CourseId")
-                        .HasColumnType("int");
-
                     b.Property<int>("StudentId")
                         .HasColumnType("int");
 
-                    b.HasKey("CourseId", "StudentId");
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
 
-                    b.HasIndex("StudentId");
+                    b.HasKey("StudentId", "CourseId");
 
-                    b.ToTable("StudentCourses");
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("StudentsCourses");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Homework", b =>
@@ -179,16 +194,16 @@ namespace P01_StudentSystem.Migrations
                     b.Navigation("Course");
                 });
 
-            modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourses", b =>
+            modelBuilder.Entity("P01_StudentSystem.Data.Models.StudentCourse", b =>
                 {
                     b.HasOne("P01_StudentSystem.Data.Models.Course", "Course")
-                        .WithMany()
+                        .WithMany("StudentsCourses")
                         .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("P01_StudentSystem.Data.Models.Student", "Student")
-                        .WithMany()
+                        .WithMany("StudentsCourses")
                         .HasForeignKey("StudentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -203,11 +218,15 @@ namespace P01_StudentSystem.Migrations
                     b.Navigation("Homeworks");
 
                     b.Navigation("Resources");
+
+                    b.Navigation("StudentsCourses");
                 });
 
             modelBuilder.Entity("P01_StudentSystem.Data.Models.Student", b =>
                 {
                     b.Navigation("Homeworks");
+
+                    b.Navigation("StudentsCourses");
                 });
 #pragma warning restore 612, 618
         }

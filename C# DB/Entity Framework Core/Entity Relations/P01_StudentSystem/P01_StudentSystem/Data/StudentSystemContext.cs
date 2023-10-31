@@ -34,7 +34,8 @@ namespace P01_StudentSystem.Data
                 .Property(s => s.PhoneNumber)
                 .IsFixedLength(true)
                 .IsUnicode(false)
-                .IsRequired(false);
+                .IsRequired(false)
+                .HasColumnType("char(10)");
             modelBuilder.Entity<Student>()
                 .Property(s => s.RegisteredOn)
                 .HasColumnType("datetime2");
@@ -42,6 +43,30 @@ namespace P01_StudentSystem.Data
                .Property(s => s.Birthday)
                .HasColumnType("datetime2")
                .IsRequired(false);
+
+            modelBuilder.Entity<Course>()
+                .Property(s => s.Name)
+                .HasMaxLength(80)
+                .IsUnicode(true);
+            modelBuilder.Entity<Course>()
+                .Property(s => s.Description)
+                .IsUnicode(true)
+                .IsRequired(false);
+
+            modelBuilder.Entity<Resource>()
+                .Property(r=>r.Name)
+                .HasMaxLength(50)
+                .IsUnicode(true);
+
+            modelBuilder.Entity<Resource>()
+                .Property(r => r.Url)
+                .IsUnicode(false);
+            modelBuilder.Entity<Resource>()
+             .Property(r => r.ResourceType)
+             .HasColumnType("nvarchar(15)");
+            modelBuilder.Entity<Homework>()
+             .Property(r => r.ContentType)
+             .HasColumnType("nvarchar(15)");
 
 
         }

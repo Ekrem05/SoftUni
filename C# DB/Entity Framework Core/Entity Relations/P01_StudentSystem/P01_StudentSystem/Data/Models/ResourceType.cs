@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata;
-
-namespace P01_StudentSystem.Data.Models
+﻿namespace P01_StudentSystem.Data.Models
 {
     public enum ResourceType
     {
