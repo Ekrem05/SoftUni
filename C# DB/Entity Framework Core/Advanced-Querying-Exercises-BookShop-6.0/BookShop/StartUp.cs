@@ -16,7 +16,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(CountCopiesByAuthor(db));
+            Console.WriteLine(GetTotalProfitByCategory(db));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -223,6 +223,23 @@
             }
 
             return sb.ToString();
+        }
+        public static string GetTotalProfitByCategory(BookShopContext context)
+        {
+            var result = context.Categories
+                .Select(x => new
+                {
+                    Name = x.Name,
+                    Profit = x.CategoryBooks.Sum(cb => cb.Book.Copies * cb.Book.Price)
+                })
+                .OrderByDescending(x=>x.Profit)
+                .ThenBy(x=>x.Name);
+            StringBuilder sb = new();
+            foreach (var item in result)
+            {
+                sb.AppendLine($"{item.Name} - ${item.Profit:f2}");
+            }
+            return sb.ToString();   
         }
     }
 }
