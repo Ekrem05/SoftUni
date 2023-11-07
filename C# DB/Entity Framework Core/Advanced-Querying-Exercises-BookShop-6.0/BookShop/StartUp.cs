@@ -16,7 +16,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(GetTotalProfitByCategory(db));
+            Console.WriteLine(GetMostRecentBooks(db));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -240,6 +240,37 @@
                 sb.AppendLine($"{item.Name} - ${item.Profit:f2}");
             }
             return sb.ToString();   
+        }
+        public static string GetMostRecentBooks(BookShopContext context)
+        {
+            StringBuilder sb = new();
+            var result = context.Categories
+                .OrderBy(c => c.Name)
+                .Select(c => new
+                {
+                    c.Name,
+                    RecentBooks = c.CategoryBooks.OrderByDescending(cb => cb.Book.ReleaseDate)
+                    .Take(3)
+                    .Select(cb => new
+                    {
+                        Title=cb.Book.Title,
+                        cb.Book.ReleaseDate.Value.Year,
+                    })
+                   
+
+                }) ;
+                
+            foreach (var item in result)
+            {
+                sb.AppendLine($"--{item.Name}");
+                foreach (var book in item.RecentBooks)
+                {
+                    sb.AppendLine($"{book.Title} ({book.Year})");
+
+                }
+
+            }
+            return sb.ToString();
         }
     }
 }
