@@ -1,5 +1,6 @@
 ﻿namespace BookShop
 {
+    using BookShop.Models;
     using BookShop.Models.Enums;
     using Data;
     using Initializer;
@@ -15,7 +16,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(CountBooks(db, 12));
+            Console.WriteLine(CountCopiesByAuthor(db));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -203,6 +204,25 @@
             return context.Books
                 .Where(b => b.Title.Length > lengthCheck)
                 .Count();
+        }
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+
+            var result = context.Authors
+                .Select(x => new
+                {
+                    Name = $"{x.FirstName} {x.LastName}",
+                    Copies = x.Books.Sum(book => book.Copies)
+                })
+                .OrderByDescending(x=>x.Copies);
+
+            StringBuilder sb = new();
+            foreach (var item in result)
+            {
+                sb.AppendLine($"{item.Name} - {item.Copies}");
+            }
+
+            return sb.ToString();
         }
     }
 }
