@@ -15,7 +15,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(GetBooksByAuthor(db, "po"));
+            Console.WriteLine(CountBooks(db, 12));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -197,6 +197,12 @@
 
             return sb.ToString();
 
+        }
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            return context.Books
+                .Where(b => b.Title.Length > lengthCheck)
+                .Count();
         }
     }
 }
