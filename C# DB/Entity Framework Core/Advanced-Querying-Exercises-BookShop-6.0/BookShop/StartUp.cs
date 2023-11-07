@@ -4,6 +4,8 @@
     using Data;
     using Initializer;
     using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Conventions;
+    using System.Globalization;
     using System.Security.Cryptography.X509Certificates;
     using System.Text;
 
@@ -13,7 +15,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(GetBooksByCategory(db, "horror mystery drama"));
+            Console.WriteLine(GetAuthorNamesEndingIn(db, "dy"));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -117,6 +119,48 @@
             return sb.ToString();
 
 
+        }
+        public static string GetBooksReleasedBefore(BookShopContext context, string date)
+        {
+            var books = context.Books
+             .Where(b => b.ReleaseDate<DateTime.ParseExact(date, "dd-MM-yyyy", CultureInfo.InvariantCulture))
+             .OrderByDescending(b => b.ReleaseDate)
+             .Select(b => new
+             {
+                 b.Title,
+                 b.EditionType,
+                 b.Price,
+                 b.ReleaseDate
+
+             });
+
+
+            StringBuilder sb = new();
+            foreach (var item in books)
+            {
+                sb.AppendLine($"{item.Title} - {item.EditionType} - ${item.Price:f2} {item.ReleaseDate}");
+            }
+
+            return sb.ToString();
+        }
+        public static string GetAuthorNamesEndingIn(BookShopContext context, string input)
+        {
+            var authors = context.Authors
+                .Where(a => a.FirstName.EndsWith(input))
+                .Select(a => new
+                {
+                    a.FirstName,
+                    a.LastName
+                })
+                .OrderBy(a => a.FirstName)
+                .ThenBy(a => a.LastName);
+            StringBuilder sb = new();
+            foreach (var item in authors)
+            {
+                sb.AppendLine($"{item.FirstName} {item.LastName}");
+            }
+
+            return sb.ToString();
         }
     }
 }
