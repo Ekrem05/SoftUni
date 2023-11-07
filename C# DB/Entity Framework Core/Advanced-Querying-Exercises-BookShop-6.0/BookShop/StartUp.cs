@@ -16,7 +16,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(GetMostRecentBooks(db));
+            Console.WriteLine(RemoveBooks(db));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -283,6 +283,14 @@
             context.SaveChanges();
             
         }
+        public static int RemoveBooks(BookShopContext context)
+        {
+            var books = context.Books
+                .Where(b => b.Copies < 4200);
+            context.RemoveRange(books);
+            return books.Count();
+        }
+
     }
 }
 
