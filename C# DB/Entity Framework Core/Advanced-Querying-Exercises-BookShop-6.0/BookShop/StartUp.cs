@@ -15,7 +15,7 @@
         {
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
-            Console.WriteLine(GetBookTitlesContaining(db, "WOR"));
+            Console.WriteLine(GetBooksByAuthor(db, "po"));
         }
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
         {
@@ -179,6 +179,24 @@
             }
 
             return sb.ToString();
+        }
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            var books = context.Books
+                .Where(b => b.Author.LastName.ToLower().StartsWith(input.ToLower()))
+                .OrderBy(b => b.BookId)
+                .Select(x => new
+                {
+                    x.Title, x.Author
+                });
+            StringBuilder sb = new();
+            foreach (var item in books)
+            {
+                sb.AppendLine($"{item.Title} ({item.Author.FirstName} {item.Author.LastName})");
+            }
+
+            return sb.ToString();
+
         }
     }
 }
