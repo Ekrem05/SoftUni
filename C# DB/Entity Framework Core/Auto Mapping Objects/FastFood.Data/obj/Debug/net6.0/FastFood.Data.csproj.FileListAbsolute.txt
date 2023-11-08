@@ -1,0 +1,17 @@
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Data.deps.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Data.runtimeconfig.json
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Data.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Data.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Models.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\bin\Debug\net6.0\FastFood.Models.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfo.cs
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CopyComplete
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\refint\FastFood.Data.dll
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.pdb
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\FastFood.Data.genruntimeconfig.cache
+C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Data\obj\Debug\net6.0\ref\FastFood.Data.dll

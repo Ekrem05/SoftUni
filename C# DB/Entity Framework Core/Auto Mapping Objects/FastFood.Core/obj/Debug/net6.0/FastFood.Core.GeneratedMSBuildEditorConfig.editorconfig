@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FastFood.Core
+build_property.RootNamespace = FastFood.Core
+build_property.ProjectDir = C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Core\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ekrem\Documents\GitHub\SoftUni\AdvancedC#\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Core
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Categories/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Employees/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Employees/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Items/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Orders/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Positions/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Positions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekrem/Documents/GitHub/SoftUni/AdvancedC\#/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f93shy2jyf
