@@ -10,7 +10,7 @@ namespace Invoices
         {
             var context = new InvoicesContext();
 
-            ResetDatabase(context, shouldDropDatabase: true);
+            //ResetDatabase(context, shouldDropDatabase: true);
 
             var projectDir = GetProjectDirectory();
 
@@ -26,20 +26,20 @@ namespace Invoices
 
         private static void ImportEntities(InvoicesContext context, string baseDir, string exportDir)
         {
-            var clients =
-               DataProcessor.Deserializer.ImportClients(context,
-                   File.ReadAllText(baseDir + "clients.xml"));
-            PrintAndExportEntityToFile(clients, exportDir + "Actual Result - ImportClients.txt");
+            //var clients =
+            //   DataProcessor.Deserializer.ImportClients(context,
+            //       File.ReadAllText(baseDir + "clients.xml"));
+            //PrintAndExportEntityToFile(clients, exportDir + "Actual Result - ImportClients.txt");
 
-            var invoices =
-                DataProcessor.Deserializer.ImportInvoices(context,
-                    File.ReadAllText(baseDir + "invoices.json"));
-            PrintAndExportEntityToFile(invoices, exportDir + "Actual Result - ImportInvoices.txt");
+            //var invoices =
+            //    DataProcessor.Deserializer.ImportInvoices(context,
+            //        File.ReadAllText(baseDir + "invoices.json"));
+            //PrintAndExportEntityToFile(invoices, exportDir + "Actual Result - ImportInvoices.txt");
 
-            var products =
-             DataProcessor.Deserializer.ImportProducts(context,
-                 File.ReadAllText(baseDir + "products.json"));
-            PrintAndExportEntityToFile(products, exportDir + "Actual Result - ImportProducts.txt");
+            //var products =
+            // DataProcessor.Deserializer.ImportProducts(context,
+            //     File.ReadAllText(baseDir + "products.json"));
+            //PrintAndExportEntityToFile(products, exportDir + "Actual Result - ImportProducts.txt");
         }
 
         private static void ExportEntities(InvoicesContext context, string exportDir)
