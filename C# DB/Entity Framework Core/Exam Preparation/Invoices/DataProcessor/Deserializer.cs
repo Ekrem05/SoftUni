@@ -29,7 +29,8 @@
             {
                 if (!IsValid(client))
                 {
-
+                    sb.AppendLine(ErrorMessage);
+                    continue;
                 }
             }
 
