@@ -24,7 +24,7 @@ namespace ProductShop
 
             //Console.WriteLine(GetProductsInRange(new ProductShopContext()));
             //Console.WriteLine(GetSoldProducts(new ProductShopContext()));
-            Console.WriteLine(GetCategoriesByProductsCount(new ProductShopContext()));
+            //Console.WriteLine(GetCategoriesByProductsCount(new ProductShopContext()));
 
         }
         public static string ImportUsers(ProductShopContext context, string inputJson)
@@ -115,5 +115,6 @@ namespace ProductShop
             string json = JsonConvert.SerializeObject(categories, Formatting.Indented);
             return json;
         }
+
     }
 }
