@@ -10,7 +10,7 @@ namespace Invoices
         {
             var context = new InvoicesContext();
 
-            //ResetDatabase(context, shouldDropDatabase: true);
+            ResetDatabase(context, shouldDropDatabase: true);
 
             var projectDir = GetProjectDirectory();
 
@@ -27,8 +27,8 @@ namespace Invoices
         private static void ImportEntities(InvoicesContext context, string baseDir, string exportDir)
         {
             var clients =
-                DataProcessor.Deserializer.ImportClients(context,
-                    File.ReadAllText(baseDir + "clients.xml"));
+               DataProcessor.Deserializer.ImportClients(context,
+                   File.ReadAllText(baseDir + "clients.xml"));
             PrintAndExportEntityToFile(clients, exportDir + "Actual Result - ImportClients.txt");
 
             var invoices =
