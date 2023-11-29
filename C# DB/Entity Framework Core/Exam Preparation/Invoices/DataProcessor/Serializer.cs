@@ -6,12 +6,35 @@
     using Newtonsoft.Json;
     using Newtonsoft.Json.Converters;
     using System.Text;
-
+    using Extensions;
     public class Serializer
     {
         public static string ExportClientsWithTheirInvoices(InvoicesContext context, DateTime date)
         {
-            return "";
+            var clients = context.Clients
+                .Where(c => c.Invoices.Any(i => i.IssueDate > date))
+                .Select(c => new ExportClientInvoicesDto()
+                {
+                    ClientName = c.Name,
+                    VatNumber = c.NumberVat,
+                    InvoicesCount = c.Invoices.Count,
+                    Invoices = c.Invoices
+                    .OrderBy(i => i.IssueDate)
+                    .ThenByDescending(i => i.DueDate)
+                    .Select(i => new ExportInvoiceDto()
+                    {
+                        InvoiceNumber = i.Number,
+                        InvoiceAmount = i.Amount,
+                        DueDate = i.DueDate.ToString("MM/dd/yyyy"),
+                        Currency = i.CurrencyType
+                    }).ToArray()
+                })
+                .OrderByDescending(c => c.InvoicesCount)
+                .ThenBy(c => c.ClientName)
+                .ToArray();
+
+            return XmlSerializationExtension
+                .SerializeToXml<ExportClientInvoicesDto[]>(clients,"Clients");
         }
 
         public static string ExportProductsWithMostClients(InvoicesContext context, int nameLength)

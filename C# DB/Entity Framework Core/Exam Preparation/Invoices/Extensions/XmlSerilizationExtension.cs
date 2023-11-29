@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 using System.Xml.Serialization;
 
 namespace Invoices.Extensions
@@ -12,7 +13,10 @@ namespace Invoices.Extensions
         public static string SerializeToXml<T>(this T obj, string rootName)
         {
             var xmlSerializer = new XmlSerializer(typeof(T), new XmlRootAttribute(rootName));
-
+            XmlWriterSettings settings= new XmlWriterSettings() { 
+            
+                Encoding= Encoding.UTF8,
+            };
             var namespaces = new XmlSerializerNamespaces();
             namespaces.Add(string.Empty, string.Empty);
 
