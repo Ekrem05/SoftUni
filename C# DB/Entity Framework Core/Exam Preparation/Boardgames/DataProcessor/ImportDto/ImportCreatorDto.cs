@@ -4,27 +4,25 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
-namespace Boardgames.Data.Models
+namespace Boardgames.DataProcessor.ImportDto
 {
-    public class Creator
+    [XmlType("Creator")]
+    public class ImportCreatorDto
     {
-        public Creator()
-        {
-            Boardgames=new HashSet<Boardgame>();
-        }
-
-        [Key]
-        public int Id { get; set; }
-
+       
         [Required]
         [MaxLength(7)]
+        [MinLength(2)]
         public string FirstName { get; set; }
 
         [Required]
         [MaxLength(7)]
+        [MinLength(2)]
         public string LastName { get; set; }
 
-        public ICollection<Boardgame> Boardgames { get; set; }
+        [XmlArray("Boardgames")]
+        public ImportBoardgameDto[] BoardGames { get; set; }
     }
 }
