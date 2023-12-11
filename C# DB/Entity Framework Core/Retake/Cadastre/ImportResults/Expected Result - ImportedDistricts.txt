@@ -1,0 +1,27 @@
+Successfully imported district - Sofia with 5 properties.
+Successfully imported district - Plovdiv with 4 properties.
+Successfully imported district - Varna with 5 properties.
+Successfully imported district - Burgas with 5 properties.
+Successfully imported district - Blagoevgrad with 4 properties.
+Successfully imported district - Veliko Tarnovo with 4 properties.
+Successfully imported district - Vidin with 5 properties.
+Successfully imported district - Vratsa with 3 properties.
+Successfully imported district - Gabrovo with 7 properties.
+Successfully imported district - Dobrich with 5 properties.
+Successfully imported district - Kardzhali with 5 properties.
+Successfully imported district - Kyustendil with 4 properties.
+Successfully imported district - Lovech with 5 properties.
+Successfully imported district - Montana with 3 properties.
+Successfully imported district - Pazardzhik with 4 properties.
+Successfully imported district - Pernik with 5 properties.
+Successfully imported district - Pleven with 5 properties.
+Successfully imported district - Razgrad with 4 properties.
+Successfully imported district - Ruse with 5 properties.
+Successfully imported district - Silistra with 3 properties.
+Successfully imported district - Sliven with 5 properties.
+Successfully imported district - Smolyan with 6 properties.
+Successfully imported district - Stara Zagora with 4 properties.
+Successfully imported district - Targovishte with 3 properties.
+Successfully imported district - Haskovo with 4 properties.
+Successfully imported district - Shumen with 3 properties.
+Successfully imported district - Yambol with 2 properties.
