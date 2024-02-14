@@ -126,6 +126,69 @@ namespace SoftUniBazar.Controllers
             return View(items);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            if (id==null)
+            {
+                BadRequest();
+
+            }
+            var ad = await dbContext.Ads.FirstOrDefaultAsync(a => a.Id == id);
+            if (ad==null)
+            {
+                BadRequest();
+            }
+            return View(new AdEditViewModel()
+            {
+                Id=id,
+                Name=ad.Name,
+                Description=ad.Description,
+                ImageUrl=ad.ImageUrl,
+                Price=ad.Price,
+                Categories=GetCategories()
+            });
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(AdEditViewModel vm)
+        {
+            if (ModelState.IsValid)
+            {
+                var item =await dbContext.Ads.FirstOrDefaultAsync(a => a.Id ==vm.Id);
+                if (item!=null)
+                {
+                    item.Name=vm.Name;
+                    item.Description=vm.Description;
+                    item.CategoryId = vm.CategoryId;
+                    item.ImageUrl=vm.ImageUrl;
+                    item.Price = vm.Price;
+
+                    await dbContext.SaveChangesAsync();
+                }
+            }
+            return RedirectToAction("All");
+        }
+        [HttpPost]
+        public async Task<IActionResult> RemoveFromCart(int id)
+        {
+            var item = await dbContext.Ads.FirstOrDefaultAsync(a => a.Id == id);
+            if (item==null)
+            {
+                BadRequest();
+            }
+            var adbuyer = await dbContext.AdBuyers.FirstOrDefaultAsync(ab => ab.BuyerId == GetUserId() && ab.AdId == id);
+            if (adbuyer == null)
+            {
+                BadRequest();
+            }
+
+            item.AdBuyers.Remove(adbuyer);
+            await dbContext.SaveChangesAsync();
+
+            return RedirectToAction("All");
+        }
         private string GetUserId()
         {
             return User.FindFirst(ClaimTypes.NameIdentifier)?.Value;

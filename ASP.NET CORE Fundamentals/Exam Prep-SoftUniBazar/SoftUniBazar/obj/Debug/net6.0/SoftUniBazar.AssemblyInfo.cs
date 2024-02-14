@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniBazar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ab432e48d9ee7afb76dcfaec752f2e0a8d2b0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36cfbd6589ddd4aeb0ba0d43b014cca1ba0f1767")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniBazar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniBazar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
