@@ -193,7 +193,7 @@ namespace SoftUniBazar.Controllers
         {
             return User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
         }
-
+       
         private ICollection<CategoryViewModel> GetCategories()
         {
             return dbContext.Categories

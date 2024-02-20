@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekrem\\Desktop\\Homies_Sketelon\\Homies\\Homies.csproj": {}
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET CORE Fundamentals\\Exam Prep-Homies\\Homies\\Homies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekrem\\Desktop\\Homies_Sketelon\\Homies\\Homies.csproj": {
+    "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET CORE Fundamentals\\Exam Prep-Homies\\Homies\\Homies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekrem\\Desktop\\Homies_Sketelon\\Homies\\Homies.csproj",
+        "projectUniqueName": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET CORE Fundamentals\\Exam Prep-Homies\\Homies\\Homies.csproj",
         "projectName": "Homies",
-        "projectPath": "C:\\Users\\ekrem\\Desktop\\Homies_Sketelon\\Homies\\Homies.csproj",
+        "projectPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET CORE Fundamentals\\Exam Prep-Homies\\Homies\\Homies.csproj",
         "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekrem\\Desktop\\Homies_Sketelon\\Homies\\obj\\",
+        "outputPath": "C:\\Users\\ekrem\\Documents\\GitHub\\SoftUni\\AdvancedC#\\ASP.NET CORE Fundamentals\\Exam Prep-Homies\\Homies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

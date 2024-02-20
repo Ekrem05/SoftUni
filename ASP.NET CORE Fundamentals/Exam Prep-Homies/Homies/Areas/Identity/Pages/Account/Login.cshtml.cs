@@ -74,17 +74,17 @@ namespace Homies.Areas.Identity.Pages.Account
             
         }
 
-        public async Task OnGetAsync(string returnUrl = null)
+        public async Task<IActionResult> OnGetAsync(string returnUrl = null)
         {
             
                 if (!string.IsNullOrEmpty(ErrorMessage))
                 {
                     ModelState.AddModelError(string.Empty, ErrorMessage);
                 }
-                if (User.Identity.IsAuthenticated)
+                if (User!=null && User.Identity.IsAuthenticated)
                 {
-                    HttpContext.Response.Redirect("/");
-                    return;
+                  
+                    return RedirectToAction("All", "Event");
                 }
                 returnUrl ??= Url.Content("~/");
 
@@ -93,7 +93,7 @@ namespace Homies.Areas.Identity.Pages.Account
 
 
                 ReturnUrl = returnUrl;
-           
+            return Page();
             
         }
 
